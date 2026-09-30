@@ -1,0 +1,6474 @@
+{
+  "cases": [
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.756,
+        "choice": "or",
+        "confidence": 0.3404,
+        "probabilities": {
+          "and": 0.1185,
+          "insufficient_evidence": 0.1255,
+          "or": 0.756
+        },
+        "type": "choice"
+      },
+      "confidence": 0.756,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.756,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7943,
+        "choice": "or",
+        "confidence": 0.4082,
+        "probabilities": {
+          "and": 0.1103,
+          "insufficient_evidence": 0.0953,
+          "or": 0.7943
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7943,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7943,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5859,
+        "choice": "or",
+        "confidence": 0.1275,
+        "probabilities": {
+          "and": 0.1695,
+          "insufficient_evidence": 0.2447,
+          "or": 0.5859
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5859,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5859,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9476,
+        "choice": "or",
+        "confidence": 0.7801,
+        "probabilities": {
+          "and": 0.0246,
+          "insufficient_evidence": 0.0278,
+          "or": 0.9476
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9476,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9476,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6794,
+        "choice": "or",
+        "confidence": 0.2281,
+        "probabilities": {
+          "and": 0.1763,
+          "insufficient_evidence": 0.1443,
+          "or": 0.6794
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6794,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6794,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6914,
+        "choice": "or",
+        "confidence": 0.2512,
+        "probabilities": {
+          "and": 0.1918,
+          "insufficient_evidence": 0.1168,
+          "or": 0.6914
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6914,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6914,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6477,
+        "choice": "or",
+        "confidence": 0.1885,
+        "probabilities": {
+          "and": 0.1925,
+          "insufficient_evidence": 0.1598,
+          "or": 0.6477
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6477,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6477,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8586,
+        "choice": "or",
+        "confidence": 0.5402,
+        "probabilities": {
+          "and": 0.0763,
+          "insufficient_evidence": 0.0651,
+          "or": 0.8586
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8586,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8586,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6392,
+        "choice": "or",
+        "confidence": 0.1828,
+        "probabilities": {
+          "and": 0.2135,
+          "insufficient_evidence": 0.1473,
+          "or": 0.6392
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6392,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6392,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6432,
+        "choice": "or",
+        "confidence": 0.2072,
+        "probabilities": {
+          "and": 0.248,
+          "insufficient_evidence": 0.1088,
+          "or": 0.6432
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6432,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6432,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6948,
+        "choice": "or",
+        "confidence": 0.2566,
+        "probabilities": {
+          "and": 0.1916,
+          "insufficient_evidence": 0.1136,
+          "or": 0.6948
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6948,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6948,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8961,
+        "choice": "or",
+        "confidence": 0.6317,
+        "probabilities": {
+          "and": 0.0591,
+          "insufficient_evidence": 0.0448,
+          "or": 0.8961
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8961,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8961,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.82,
+        "choice": "or",
+        "confidence": 0.4589,
+        "probabilities": {
+          "and": 0.0775,
+          "insufficient_evidence": 0.1026,
+          "or": 0.82
+        },
+        "type": "choice"
+      },
+      "confidence": 0.82,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.82,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7528,
+        "choice": "or",
+        "confidence": 0.3366,
+        "probabilities": {
+          "and": 0.1383,
+          "insufficient_evidence": 0.1089,
+          "or": 0.7528
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7528,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7528,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6211,
+        "choice": "or",
+        "confidence": 0.1707,
+        "probabilities": {
+          "and": 0.1363,
+          "insufficient_evidence": 0.2426,
+          "or": 0.6211
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6211,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6211,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9302,
+        "choice": "or",
+        "confidence": 0.7259,
+        "probabilities": {
+          "and": 0.038,
+          "insufficient_evidence": 0.0318,
+          "or": 0.9302
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9302,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9302,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7342,
+        "choice": "or",
+        "confidence": 0.3066,
+        "probabilities": {
+          "and": 0.147,
+          "insufficient_evidence": 0.1188,
+          "or": 0.7342
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7342,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7342,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7484,
+        "choice": "or",
+        "confidence": 0.3299,
+        "probabilities": {
+          "and": 0.1427,
+          "insufficient_evidence": 0.1089,
+          "or": 0.7484
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7484,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7484,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6613,
+        "choice": "or",
+        "confidence": 0.2044,
+        "probabilities": {
+          "and": 0.1566,
+          "insufficient_evidence": 0.1821,
+          "or": 0.6613
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6613,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6613,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8666,
+        "choice": "or",
+        "confidence": 0.5636,
+        "probabilities": {
+          "and": 0.0471,
+          "insufficient_evidence": 0.0863,
+          "or": 0.8666
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8666,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8666,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6181,
+        "choice": "or",
+        "confidence": 0.163,
+        "probabilities": {
+          "and": 0.2349,
+          "insufficient_evidence": 0.147,
+          "or": 0.6181
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6181,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6181,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6432,
+        "choice": "or",
+        "confidence": 0.2072,
+        "probabilities": {
+          "and": 0.248,
+          "insufficient_evidence": 0.1088,
+          "or": 0.6432
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6432,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6432,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6948,
+        "choice": "or",
+        "confidence": 0.2566,
+        "probabilities": {
+          "and": 0.1916,
+          "insufficient_evidence": 0.1136,
+          "or": 0.6948
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6948,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6948,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8961,
+        "choice": "or",
+        "confidence": 0.6317,
+        "probabilities": {
+          "and": 0.0591,
+          "insufficient_evidence": 0.0448,
+          "or": 0.8961
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8961,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8961,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5718,
+        "choice": "or",
+        "confidence": 0.1616,
+        "probabilities": {
+          "and": 0.3234,
+          "insufficient_evidence": 0.1048,
+          "or": 0.5718
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5718,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5718,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7914,
+        "choice": "or",
+        "confidence": 0.4113,
+        "probabilities": {
+          "and": 0.1363,
+          "insufficient_evidence": 0.0723,
+          "or": 0.7914
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7914,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7914,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6452,
+        "choice": "or",
+        "confidence": 0.1892,
+        "probabilities": {
+          "and": 0.2087,
+          "insufficient_evidence": 0.1461,
+          "or": 0.6452
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6452,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6452,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8482,
+        "choice": "or",
+        "confidence": 0.517,
+        "probabilities": {
+          "and": 0.0704,
+          "insufficient_evidence": 0.0814,
+          "or": 0.8482
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8482,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8482,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6492,
+        "choice": "or",
+        "confidence": 0.1903,
+        "probabilities": {
+          "and": 0.1919,
+          "insufficient_evidence": 0.1589,
+          "or": 0.6492
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6492,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6492,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7595,
+        "choice": "or",
+        "confidence": 0.3793,
+        "probabilities": {
+          "and": 0.1846,
+          "insufficient_evidence": 0.0558,
+          "or": 0.7595
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7595,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7595,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.549,
+        "choice": "or",
+        "confidence": 0.0965,
+        "probabilities": {
+          "and": 0.2688,
+          "insufficient_evidence": 0.1822,
+          "or": 0.549
+        },
+        "type": "choice"
+      },
+      "confidence": 0.549,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.549,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9033,
+        "choice": "or",
+        "confidence": 0.6545,
+        "probabilities": {
+          "and": 0.0641,
+          "insufficient_evidence": 0.0326,
+          "or": 0.9033
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9033,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9033,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6081,
+        "choice": "or",
+        "confidence": 0.1689,
+        "probabilities": {
+          "and": 0.2694,
+          "insufficient_evidence": 0.1225,
+          "or": 0.6081
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6081,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6081,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "nested_outer",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8748,
+        "choice": "or",
+        "confidence": 0.5823,
+        "probabilities": {
+          "and": 0.0803,
+          "insufficient_evidence": 0.0449,
+          "or": 0.8748
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8748,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8748,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7789,
+        "choice": "or",
+        "confidence": 0.4157,
+        "probabilities": {
+          "and": 0.1747,
+          "insufficient_evidence": 0.0464,
+          "or": 0.7789
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7789,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7789,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6308,
+        "choice": "or",
+        "confidence": 0.2004,
+        "probabilities": {
+          "and": 0.2647,
+          "insufficient_evidence": 0.1045,
+          "or": 0.6308
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6308,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6308,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5721,
+        "choice": "or",
+        "confidence": 0.1121,
+        "probabilities": {
+          "and": 0.2428,
+          "insufficient_evidence": 0.1851,
+          "or": 0.5721
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5721,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5721,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "nested_inner",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7793,
+        "choice": "or",
+        "confidence": 0.3838,
+        "probabilities": {
+          "and": 0.1307,
+          "insufficient_evidence": 0.0899,
+          "or": 0.7793
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7793,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7793,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5501,
+        "choice": "or",
+        "confidence": 0.0936,
+        "probabilities": {
+          "and": 0.2558,
+          "insufficient_evidence": 0.1941,
+          "or": 0.5501
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5501,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5501,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8622,
+        "choice": "or",
+        "confidence": 0.5506,
+        "probabilities": {
+          "and": 0.0828,
+          "insufficient_evidence": 0.055,
+          "or": 0.8622
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8622,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8622,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4709,
+        "choice": "and",
+        "confidence": 0.0517,
+        "probabilities": {
+          "and": 0.4709,
+          "insufficient_evidence": 0.1991,
+          "or": 0.3299
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4709,
+      "correct": true,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.4709,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6777,
+        "choice": "or",
+        "confidence": 0.2255,
+        "probabilities": {
+          "and": 0.1482,
+          "insufficient_evidence": 0.1741,
+          "or": 0.6777
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6777,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6777,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5728,
+        "choice": "or",
+        "confidence": 0.1095,
+        "probabilities": {
+          "and": 0.2218,
+          "insufficient_evidence": 0.2054,
+          "or": 0.5728
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5728,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5728,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8621,
+        "choice": "or",
+        "confidence": 0.5479,
+        "probabilities": {
+          "and": 0.0683,
+          "insufficient_evidence": 0.0696,
+          "or": 0.8621
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8621,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8621,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6563,
+        "choice": "and",
+        "confidence": 0.2538,
+        "probabilities": {
+          "and": 0.6563,
+          "insufficient_evidence": 0.0719,
+          "or": 0.2717
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6563,
+      "correct": true,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6563,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8205,
+        "choice": "or",
+        "confidence": 0.4593,
+        "probabilities": {
+          "and": 0.08,
+          "insufficient_evidence": 0.0995,
+          "or": 0.8205
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8205,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8205,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7006,
+        "choice": "or",
+        "confidence": 0.26,
+        "probabilities": {
+          "and": 0.1228,
+          "insufficient_evidence": 0.1766,
+          "or": 0.7006
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7006,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7006,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7912,
+        "choice": "or",
+        "confidence": 0.4076,
+        "probabilities": {
+          "and": 0.0792,
+          "insufficient_evidence": 0.1296,
+          "or": 0.7912
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7912,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7912,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5728,
+        "choice": "or",
+        "confidence": 0.2238,
+        "probabilities": {
+          "and": 0.3689,
+          "insufficient_evidence": 0.0583,
+          "or": 0.5728
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5728,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5728,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.676,
+        "choice": "or",
+        "confidence": 0.2579,
+        "probabilities": {
+          "and": 0.24,
+          "insufficient_evidence": 0.084,
+          "or": 0.676
+        },
+        "type": "choice"
+      },
+      "confidence": 0.676,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.676,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.642,
+        "choice": "or",
+        "confidence": 0.1863,
+        "probabilities": {
+          "and": 0.2131,
+          "insufficient_evidence": 0.1449,
+          "or": 0.642
+        },
+        "type": "choice"
+      },
+      "confidence": 0.642,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.642,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9545,
+        "choice": "or",
+        "confidence": 0.803,
+        "probabilities": {
+          "and": 0.0256,
+          "insufficient_evidence": 0.02,
+          "or": 0.9545
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9545,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9545,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9191,
+        "choice": "or",
+        "confidence": 0.6987,
+        "probabilities": {
+          "and": 0.0251,
+          "insufficient_evidence": 0.0559,
+          "or": 0.9191
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9191,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9191,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6914,
+        "choice": "or",
+        "confidence": 0.2503,
+        "probabilities": {
+          "and": 0.1899,
+          "insufficient_evidence": 0.1187,
+          "or": 0.6914
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6914,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6914,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6529,
+        "choice": "or",
+        "confidence": 0.1951,
+        "probabilities": {
+          "and": 0.1916,
+          "insufficient_evidence": 0.1554,
+          "or": 0.6529
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6529,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6529,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8905,
+        "choice": "or",
+        "confidence": 0.6167,
+        "probabilities": {
+          "and": 0.0579,
+          "insufficient_evidence": 0.0515,
+          "or": 0.8905
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8905,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8905,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6566,
+        "choice": "or",
+        "confidence": 0.198,
+        "probabilities": {
+          "and": 0.178,
+          "insufficient_evidence": 0.1654,
+          "or": 0.6566
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6566,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6566,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "nested_inner",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7355,
+        "choice": "or",
+        "confidence": 0.3176,
+        "probabilities": {
+          "and": 0.1707,
+          "insufficient_evidence": 0.0938,
+          "or": 0.7355
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7355,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7355,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9519,
+        "choice": "or",
+        "confidence": 0.797,
+        "probabilities": {
+          "and": 0.0328,
+          "insufficient_evidence": 0.0153,
+          "or": 0.9519
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9519,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9519,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7661,
+        "choice": "or",
+        "confidence": 0.3977,
+        "probabilities": {
+          "and": 0.1866,
+          "insufficient_evidence": 0.0473,
+          "or": 0.7661
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7661,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7661,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.509,
+        "choice": "or",
+        "confidence": 0.07,
+        "probabilities": {
+          "and": 0.1925,
+          "insufficient_evidence": 0.2985,
+          "or": 0.509
+        },
+        "type": "choice"
+      },
+      "confidence": 0.509,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.509,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "nested_inner",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8373,
+        "choice": "or",
+        "confidence": 0.4941,
+        "probabilities": {
+          "and": 0.0905,
+          "insufficient_evidence": 0.0721,
+          "or": 0.8373
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8373,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8373,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5723,
+        "choice": "or",
+        "confidence": 0.1088,
+        "probabilities": {
+          "and": 0.2182,
+          "insufficient_evidence": 0.2095,
+          "or": 0.5723
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5723,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5723,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8301,
+        "choice": "or",
+        "confidence": 0.4808,
+        "probabilities": {
+          "and": 0.1014,
+          "insufficient_evidence": 0.0686,
+          "or": 0.8301
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8301,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8301,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5026,
+        "choice": "or",
+        "confidence": 0.0554,
+        "probabilities": {
+          "and": 0.2544,
+          "insufficient_evidence": 0.243,
+          "or": 0.5026
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5026,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5026,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "nested_inner",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9398,
+        "choice": "or",
+        "confidence": 0.7554,
+        "probabilities": {
+          "and": 0.034,
+          "insufficient_evidence": 0.0262,
+          "or": 0.9398
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9398,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9398,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7789,
+        "choice": "or",
+        "confidence": 0.3796,
+        "probabilities": {
+          "and": 0.1107,
+          "insufficient_evidence": 0.1104,
+          "or": 0.7789
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7789,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7789,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5181,
+        "choice": "or",
+        "confidence": 0.0818,
+        "probabilities": {
+          "and": 0.3059,
+          "insufficient_evidence": 0.176,
+          "or": 0.5181
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5181,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5181,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7264,
+        "choice": "insufficient_evidence",
+        "confidence": 0.3364,
+        "probabilities": {
+          "and": 0.0587,
+          "insufficient_evidence": 0.7264,
+          "or": 0.2149
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7264,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7264,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7527,
+        "choice": "or",
+        "confidence": 0.3477,
+        "probabilities": {
+          "and": 0.165,
+          "insufficient_evidence": 0.0823,
+          "or": 0.7527
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7527,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7527,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6273,
+        "choice": "or",
+        "confidence": 0.1691,
+        "probabilities": {
+          "and": 0.2195,
+          "insufficient_evidence": 0.1532,
+          "or": 0.6273
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6273,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6273,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8979,
+        "choice": "or",
+        "confidence": 0.6395,
+        "probabilities": {
+          "and": 0.066,
+          "insufficient_evidence": 0.0361,
+          "or": 0.8979
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8979,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8979,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7319,
+        "choice": "insufficient_evidence",
+        "confidence": 0.3232,
+        "probabilities": {
+          "and": 0.0785,
+          "insufficient_evidence": 0.7319,
+          "or": 0.1896
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7319,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7319,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5546,
+        "choice": "or",
+        "confidence": 0.1173,
+        "probabilities": {
+          "and": 0.2982,
+          "insufficient_evidence": 0.1472,
+          "or": 0.5546
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5546,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5546,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6613,
+        "choice": "or",
+        "confidence": 0.2123,
+        "probabilities": {
+          "and": 0.2094,
+          "insufficient_evidence": 0.1293,
+          "or": 0.6613
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6613,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6613,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8696,
+        "choice": "or",
+        "confidence": 0.5663,
+        "probabilities": {
+          "and": 0.0735,
+          "insufficient_evidence": 0.0569,
+          "or": 0.8696
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8696,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8696,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6171,
+        "choice": "insufficient_evidence",
+        "confidence": 0.1799,
+        "probabilities": {
+          "and": 0.1167,
+          "insufficient_evidence": 0.6171,
+          "or": 0.2662
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6171,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6171,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5642,
+        "choice": "or",
+        "confidence": 0.186,
+        "probabilities": {
+          "and": 0.3547,
+          "insufficient_evidence": 0.0811,
+          "or": 0.5642
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5642,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5642,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6042,
+        "choice": "or",
+        "confidence": 0.1639,
+        "probabilities": {
+          "and": 0.2702,
+          "insufficient_evidence": 0.1255,
+          "or": 0.6042
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6042,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6042,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8621,
+        "choice": "or",
+        "confidence": 0.5564,
+        "probabilities": {
+          "and": 0.0941,
+          "insufficient_evidence": 0.0438,
+          "or": 0.8621
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8621,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8621,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7214,
+        "choice": "or",
+        "confidence": 0.3249,
+        "probabilities": {
+          "and": 0.0639,
+          "insufficient_evidence": 0.2147,
+          "or": 0.7214
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7214,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7214,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4609,
+        "choice": "or",
+        "confidence": 0.0339,
+        "probabilities": {
+          "and": 0.295,
+          "insufficient_evidence": 0.2441,
+          "or": 0.4609
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4609,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4609,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5635,
+        "choice": "or",
+        "confidence": 0.1011,
+        "probabilities": {
+          "and": 0.2176,
+          "insufficient_evidence": 0.2189,
+          "or": 0.5635
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5635,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5635,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6844,
+        "choice": "or",
+        "confidence": 0.2333,
+        "probabilities": {
+          "and": 0.1605,
+          "insufficient_evidence": 0.1551,
+          "or": 0.6844
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6844,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6844,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6386,
+        "choice": "or",
+        "confidence": 0.2681,
+        "probabilities": {
+          "and": 0.0525,
+          "insufficient_evidence": 0.3088,
+          "or": 0.6386
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6386,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6386,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6363,
+        "choice": "or",
+        "confidence": 0.2086,
+        "probabilities": {
+          "and": 0.2636,
+          "insufficient_evidence": 0.1001,
+          "or": 0.6363
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6363,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6363,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6141,
+        "choice": "or",
+        "confidence": 0.1803,
+        "probabilities": {
+          "and": 0.2724,
+          "insufficient_evidence": 0.1134,
+          "or": 0.6141
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6141,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6141,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.826,
+        "choice": "or",
+        "confidence": 0.4831,
+        "probabilities": {
+          "and": 0.1225,
+          "insufficient_evidence": 0.0515,
+          "or": 0.826
+        },
+        "type": "choice"
+      },
+      "confidence": 0.826,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.826,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5445,
+        "choice": "or",
+        "confidence": 0.1996,
+        "probabilities": {
+          "and": 0.067,
+          "insufficient_evidence": 0.3885,
+          "or": 0.5445
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5445,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5445,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.737,
+        "choice": "or",
+        "confidence": 0.3106,
+        "probabilities": {
+          "and": 0.1436,
+          "insufficient_evidence": 0.1194,
+          "or": 0.737
+        },
+        "type": "choice"
+      },
+      "confidence": 0.737,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.737,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6593,
+        "choice": "or",
+        "confidence": 0.2222,
+        "probabilities": {
+          "and": 0.2326,
+          "insufficient_evidence": 0.1082,
+          "or": 0.6593
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6593,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6593,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8238,
+        "choice": "or",
+        "confidence": 0.4764,
+        "probabilities": {
+          "and": 0.1209,
+          "insufficient_evidence": 0.0553,
+          "or": 0.8238
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8238,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8238,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7485,
+        "choice": "or",
+        "confidence": 0.358,
+        "probabilities": {
+          "and": 0.0628,
+          "insufficient_evidence": 0.1887,
+          "or": 0.7485
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7485,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7485,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8323,
+        "choice": "or",
+        "confidence": 0.5012,
+        "probabilities": {
+          "and": 0.1243,
+          "insufficient_evidence": 0.0434,
+          "or": 0.8323
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8323,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8323,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6986,
+        "choice": "or",
+        "confidence": 0.2783,
+        "probabilities": {
+          "and": 0.2147,
+          "insufficient_evidence": 0.0867,
+          "or": 0.6986
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6986,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6986,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9461,
+        "choice": "or",
+        "confidence": 0.7773,
+        "probabilities": {
+          "and": 0.0354,
+          "insufficient_evidence": 0.0185,
+          "or": 0.9461
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9461,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9461,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5181,
+        "choice": "or",
+        "confidence": 0.0709,
+        "probabilities": {
+          "and": 0.2783,
+          "insufficient_evidence": 0.2035,
+          "or": 0.5181
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5181,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5181,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5363,
+        "choice": "or",
+        "confidence": 0.1005,
+        "probabilities": {
+          "and": 0.3053,
+          "insufficient_evidence": 0.1583,
+          "or": 0.5363
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5363,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5363,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4724,
+        "choice": "or",
+        "confidence": 0.0563,
+        "probabilities": {
+          "and": 0.3371,
+          "insufficient_evidence": 0.1906,
+          "or": 0.4724
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4724,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4724,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8058,
+        "choice": "or",
+        "confidence": 0.4465,
+        "probabilities": {
+          "and": 0.1389,
+          "insufficient_evidence": 0.0552,
+          "or": 0.8058
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8058,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8058,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.483,
+        "choice": "or",
+        "confidence": 0.0472,
+        "probabilities": {
+          "and": 0.2914,
+          "insufficient_evidence": 0.2256,
+          "or": 0.483
+        },
+        "type": "choice"
+      },
+      "confidence": 0.483,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.483,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4808,
+        "choice": "or",
+        "confidence": 0.0785,
+        "probabilities": {
+          "and": 0.3601,
+          "insufficient_evidence": 0.1591,
+          "or": 0.4808
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4808,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4808,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4708,
+        "choice": "or",
+        "confidence": 0.0791,
+        "probabilities": {
+          "and": 0.3739,
+          "insufficient_evidence": 0.1553,
+          "or": 0.4708
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4708,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4708,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8989,
+        "choice": "or",
+        "confidence": 0.6468,
+        "probabilities": {
+          "and": 0.072,
+          "insufficient_evidence": 0.0291,
+          "or": 0.8989
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8989,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8989,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4435,
+        "choice": "or",
+        "confidence": 0.0315,
+        "probabilities": {
+          "and": 0.3266,
+          "insufficient_evidence": 0.2299,
+          "or": 0.4435
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4435,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4435,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4814,
+        "choice": "or",
+        "confidence": 0.0689,
+        "probabilities": {
+          "and": 0.3452,
+          "insufficient_evidence": 0.1734,
+          "or": 0.4814
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4814,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4814,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5134,
+        "choice": "or",
+        "confidence": 0.08,
+        "probabilities": {
+          "and": 0.3115,
+          "insufficient_evidence": 0.1751,
+          "or": 0.5134
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5134,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5134,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6198,
+        "choice": "or",
+        "confidence": 0.1586,
+        "probabilities": {
+          "and": 0.2148,
+          "insufficient_evidence": 0.1654,
+          "or": 0.6198
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6198,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6198,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.384,
+        "choice": "or",
+        "confidence": 0.0197,
+        "probabilities": {
+          "and": 0.2381,
+          "insufficient_evidence": 0.3778,
+          "or": 0.384
+        },
+        "type": "choice"
+      },
+      "confidence": 0.384,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.384,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5779,
+        "choice": "or",
+        "confidence": 0.1376,
+        "probabilities": {
+          "and": 0.2845,
+          "insufficient_evidence": 0.1376,
+          "or": 0.5779
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5779,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5779,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6048,
+        "choice": "or",
+        "confidence": 0.1437,
+        "probabilities": {
+          "and": 0.2264,
+          "insufficient_evidence": 0.1688,
+          "or": 0.6048
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6048,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6048,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8134,
+        "choice": "or",
+        "confidence": 0.4515,
+        "probabilities": {
+          "and": 0.1206,
+          "insufficient_evidence": 0.066,
+          "or": 0.8134
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8134,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8134,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5884,
+        "choice": "or",
+        "confidence": 0.124,
+        "probabilities": {
+          "and": 0.2139,
+          "insufficient_evidence": 0.1978,
+          "or": 0.5884
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5884,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5884,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5469,
+        "choice": "or",
+        "confidence": 0.098,
+        "probabilities": {
+          "and": 0.2781,
+          "insufficient_evidence": 0.175,
+          "or": 0.5469
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5469,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5469,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3805,
+        "choice": "or",
+        "confidence": 0.0141,
+        "probabilities": {
+          "and": 0.2527,
+          "insufficient_evidence": 0.3668,
+          "or": 0.3805
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3805,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.3805,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6993,
+        "choice": "or",
+        "confidence": 0.258,
+        "probabilities": {
+          "and": 0.1768,
+          "insufficient_evidence": 0.1238,
+          "or": 0.6993
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6993,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6993,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5042,
+        "choice": "or",
+        "confidence": 0.0564,
+        "probabilities": {
+          "and": 0.2425,
+          "insufficient_evidence": 0.2533,
+          "or": 0.5042
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5042,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5042,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6555,
+        "choice": "or",
+        "confidence": 0.2075,
+        "probabilities": {
+          "and": 0.2177,
+          "insufficient_evidence": 0.1268,
+          "or": 0.6555
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6555,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6555,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3909,
+        "choice": "and",
+        "confidence": 0.0087,
+        "probabilities": {
+          "and": 0.3909,
+          "insufficient_evidence": 0.2783,
+          "or": 0.3309
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3909,
+      "correct": true,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.3909,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5971,
+        "choice": "or",
+        "confidence": 0.1327,
+        "probabilities": {
+          "and": 0.2119,
+          "insufficient_evidence": 0.191,
+          "or": 0.5971
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5971,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5971,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6203,
+        "choice": "or",
+        "confidence": 0.2475,
+        "probabilities": {
+          "and": 0.0582,
+          "insufficient_evidence": 0.3215,
+          "or": 0.6203
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6203,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6203,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8185,
+        "choice": "or",
+        "confidence": 0.4662,
+        "probabilities": {
+          "and": 0.1246,
+          "insufficient_evidence": 0.0569,
+          "or": 0.8185
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8185,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8185,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6129,
+        "choice": "or",
+        "confidence": 0.1766,
+        "probabilities": {
+          "and": 0.27,
+          "insufficient_evidence": 0.1171,
+          "or": 0.6129
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6129,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6129,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8841,
+        "choice": "or",
+        "confidence": 0.6069,
+        "probabilities": {
+          "and": 0.078,
+          "insufficient_evidence": 0.0379,
+          "or": 0.8841
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8841,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8841,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8367,
+        "choice": "or",
+        "confidence": 0.5,
+        "probabilities": {
+          "and": 0.0547,
+          "insufficient_evidence": 0.1086,
+          "or": 0.8367
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8367,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8367,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8185,
+        "choice": "or",
+        "confidence": 0.4662,
+        "probabilities": {
+          "and": 0.1246,
+          "insufficient_evidence": 0.0569,
+          "or": 0.8185
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8185,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8185,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6129,
+        "choice": "or",
+        "confidence": 0.1766,
+        "probabilities": {
+          "and": 0.27,
+          "insufficient_evidence": 0.1171,
+          "or": 0.6129
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6129,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6129,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8841,
+        "choice": "or",
+        "confidence": 0.6069,
+        "probabilities": {
+          "and": 0.078,
+          "insufficient_evidence": 0.0379,
+          "or": 0.8841
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8841,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8841,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9202,
+        "choice": "or",
+        "confidence": 0.6993,
+        "probabilities": {
+          "and": 0.0285,
+          "insufficient_evidence": 0.0513,
+          "or": 0.9202
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9202,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9202,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8024,
+        "choice": "or",
+        "confidence": 0.4254,
+        "probabilities": {
+          "and": 0.0823,
+          "insufficient_evidence": 0.1154,
+          "or": 0.8024
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8024,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8024,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7998,
+        "choice": "or",
+        "confidence": 0.4213,
+        "probabilities": {
+          "and": 0.081,
+          "insufficient_evidence": 0.1192,
+          "or": 0.7998
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7998,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5938,
+        "choice": "or",
+        "confidence": 0.1294,
+        "probabilities": {
+          "and": 0.2143,
+          "insufficient_evidence": 0.1919,
+          "or": 0.5938
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5938,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5938,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5879,
+        "choice": "or",
+        "confidence": 0.13,
+        "probabilities": {
+          "and": 0.2453,
+          "insufficient_evidence": 0.1668,
+          "or": 0.5879
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5879,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5879,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8144,
+        "choice": "or",
+        "confidence": 0.4495,
+        "probabilities": {
+          "and": 0.1107,
+          "insufficient_evidence": 0.0748,
+          "or": 0.8144
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8144,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8144,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6463,
+        "choice": "or",
+        "confidence": 0.1862,
+        "probabilities": {
+          "and": 0.1896,
+          "insufficient_evidence": 0.1641,
+          "or": 0.6463
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6463,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6463,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.909,
+        "choice": "or",
+        "confidence": 0.6656,
+        "probabilities": {
+          "and": 0.0506,
+          "insufficient_evidence": 0.0404,
+          "or": 0.909
+        },
+        "type": "choice"
+      },
+      "confidence": 0.909,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.909,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7016,
+        "choice": "or",
+        "confidence": 0.2589,
+        "probabilities": {
+          "and": 0.167,
+          "insufficient_evidence": 0.1314,
+          "or": 0.7016
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7016,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7016,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8144,
+        "choice": "or",
+        "confidence": 0.4495,
+        "probabilities": {
+          "and": 0.1107,
+          "insufficient_evidence": 0.0748,
+          "or": 0.8144
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8144,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8144,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6463,
+        "choice": "or",
+        "confidence": 0.1862,
+        "probabilities": {
+          "and": 0.1896,
+          "insufficient_evidence": 0.1641,
+          "or": 0.6463
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6463,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6463,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.909,
+        "choice": "or",
+        "confidence": 0.6656,
+        "probabilities": {
+          "and": 0.0506,
+          "insufficient_evidence": 0.0404,
+          "or": 0.909
+        },
+        "type": "choice"
+      },
+      "confidence": 0.909,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.909,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8728,
+        "choice": "or",
+        "confidence": 0.573,
+        "probabilities": {
+          "and": 0.067,
+          "insufficient_evidence": 0.0602,
+          "or": 0.8728
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8728,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8728,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5899,
+        "choice": "or",
+        "confidence": 0.1346,
+        "probabilities": {
+          "and": 0.251,
+          "insufficient_evidence": 0.1591,
+          "or": 0.5899
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5899,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5899,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7043,
+        "choice": "or",
+        "confidence": 0.2712,
+        "probabilities": {
+          "and": 0.1889,
+          "insufficient_evidence": 0.1068,
+          "or": 0.7043
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7043,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7043,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8811,
+        "choice": "or",
+        "confidence": 0.5932,
+        "probabilities": {
+          "and": 0.0635,
+          "insufficient_evidence": 0.0554,
+          "or": 0.8811
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8811,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8811,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5979,
+        "choice": "or",
+        "confidence": 0.1818,
+        "probabilities": {
+          "and": 0.3024,
+          "insufficient_evidence": 0.0996,
+          "or": 0.5979
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5979,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5979,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8104,
+        "choice": "or",
+        "confidence": 0.4461,
+        "probabilities": {
+          "and": 0.1229,
+          "insufficient_evidence": 0.0667,
+          "or": 0.8104
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8104,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8104,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7392,
+        "choice": "or",
+        "confidence": 0.3246,
+        "probabilities": {
+          "and": 0.1707,
+          "insufficient_evidence": 0.0901,
+          "or": 0.7392
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7392,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7392,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9765,
+        "choice": "or",
+        "confidence": 0.8842,
+        "probabilities": {
+          "and": 0.0141,
+          "insufficient_evidence": 0.0094,
+          "or": 0.9765
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9765,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9765,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7546,
+        "choice": "or",
+        "confidence": 0.3388,
+        "probabilities": {
+          "and": 0.133,
+          "insufficient_evidence": 0.1124,
+          "or": 0.7546
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7546,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7546,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8803,
+        "choice": "or",
+        "confidence": 0.5913,
+        "probabilities": {
+          "and": 0.0645,
+          "insufficient_evidence": 0.0552,
+          "or": 0.8803
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8803,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8803,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6723,
+        "choice": "or",
+        "confidence": 0.225,
+        "probabilities": {
+          "and": 0.2007,
+          "insufficient_evidence": 0.1271,
+          "or": 0.6723
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6723,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6723,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9131,
+        "choice": "or",
+        "confidence": 0.6783,
+        "probabilities": {
+          "and": 0.053,
+          "insufficient_evidence": 0.0339,
+          "or": 0.9131
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9131,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9131,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6445,
+        "choice": "or",
+        "confidence": 0.2024,
+        "probabilities": {
+          "and": 0.2381,
+          "insufficient_evidence": 0.1174,
+          "or": 0.6445
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6445,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6445,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7131,
+        "choice": "or",
+        "confidence": 0.2795,
+        "probabilities": {
+          "and": 0.174,
+          "insufficient_evidence": 0.1128,
+          "or": 0.7131
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7131,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7131,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4038,
+        "choice": "or",
+        "confidence": 0.0393,
+        "probabilities": {
+          "and": 0.3954,
+          "insufficient_evidence": 0.2008,
+          "or": 0.4038
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4038,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4038,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9421,
+        "choice": "or",
+        "confidence": 0.7655,
+        "probabilities": {
+          "and": 0.0392,
+          "insufficient_evidence": 0.0187,
+          "or": 0.9421
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9421,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9421,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6925,
+        "choice": "or",
+        "confidence": 0.247,
+        "probabilities": {
+          "and": 0.132,
+          "insufficient_evidence": 0.1755,
+          "or": 0.6925
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6925,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6925,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7607,
+        "choice": "or",
+        "confidence": 0.3483,
+        "probabilities": {
+          "and": 0.1223,
+          "insufficient_evidence": 0.1169,
+          "or": 0.7607
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7607,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7607,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4526,
+        "choice": "or",
+        "confidence": 0.0438,
+        "probabilities": {
+          "and": 0.2047,
+          "insufficient_evidence": 0.3427,
+          "or": 0.4526
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4526,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4526,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8146,
+        "choice": "or",
+        "confidence": 0.4467,
+        "probabilities": {
+          "and": 0.0948,
+          "insufficient_evidence": 0.0906,
+          "or": 0.8146
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8146,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8146,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5349,
+        "choice": "or",
+        "confidence": 0.0788,
+        "probabilities": {
+          "and": 0.2486,
+          "insufficient_evidence": 0.2165,
+          "or": 0.5349
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5349,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5349,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5119,
+        "choice": "or",
+        "confidence": 0.0822,
+        "probabilities": {
+          "and": 0.3182,
+          "insufficient_evidence": 0.17,
+          "or": 0.5119
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5119,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5119,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3864,
+        "choice": "or",
+        "confidence": 0.0092,
+        "probabilities": {
+          "and": 0.3412,
+          "insufficient_evidence": 0.2724,
+          "or": 0.3864
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3864,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.3864,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8144,
+        "choice": "or",
+        "confidence": 0.4589,
+        "probabilities": {
+          "and": 0.1282,
+          "insufficient_evidence": 0.0573,
+          "or": 0.8144
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8144,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8144,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7939,
+        "choice": "or",
+        "confidence": 0.4135,
+        "probabilities": {
+          "and": 0.076,
+          "insufficient_evidence": 0.13,
+          "or": 0.7939
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7939,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7939,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6001,
+        "choice": "or",
+        "confidence": 0.1463,
+        "probabilities": {
+          "and": 0.2492,
+          "insufficient_evidence": 0.1507,
+          "or": 0.6001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6001,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6001,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4943,
+        "choice": "or",
+        "confidence": 0.0524,
+        "probabilities": {
+          "and": 0.2785,
+          "insufficient_evidence": 0.2272,
+          "or": 0.4943
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4943,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4943,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8421,
+        "choice": "or",
+        "confidence": 0.5061,
+        "probabilities": {
+          "and": 0.0945,
+          "insufficient_evidence": 0.0634,
+          "or": 0.8421
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8421,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8421,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8045,
+        "choice": "or",
+        "confidence": 0.4322,
+        "probabilities": {
+          "and": 0.1217,
+          "insufficient_evidence": 0.0738,
+          "or": 0.8045
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8045,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8045,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7944,
+        "choice": "or",
+        "confidence": 0.411,
+        "probabilities": {
+          "and": 0.1216,
+          "insufficient_evidence": 0.084,
+          "or": 0.7944
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7944,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7944,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.561,
+        "choice": "or",
+        "confidence": 0.1018,
+        "probabilities": {
+          "and": 0.2456,
+          "insufficient_evidence": 0.1933,
+          "or": 0.561
+        },
+        "type": "choice"
+      },
+      "confidence": 0.561,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.561,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8135,
+        "choice": "or",
+        "confidence": 0.4446,
+        "probabilities": {
+          "and": 0.0905,
+          "insufficient_evidence": 0.096,
+          "or": 0.8135
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8135,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8135,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4547,
+        "choice": "or",
+        "confidence": 0.0706,
+        "probabilities": {
+          "and": 0.383,
+          "insufficient_evidence": 0.1623,
+          "or": 0.4547
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4547,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4547,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7955,
+        "choice": "or",
+        "confidence": 0.4123,
+        "probabilities": {
+          "and": 0.1187,
+          "insufficient_evidence": 0.0858,
+          "or": 0.7955
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7955,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7955,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7529,
+        "choice": "or",
+        "confidence": 0.3353,
+        "probabilities": {
+          "and": 0.1264,
+          "insufficient_evidence": 0.1207,
+          "or": 0.7529
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7529,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7529,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.935,
+        "choice": "or",
+        "confidence": 0.741,
+        "probabilities": {
+          "and": 0.0385,
+          "insufficient_evidence": 0.0265,
+          "or": 0.935
+        },
+        "type": "choice"
+      },
+      "confidence": 0.935,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.935,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.404,
+        "choice": "or",
+        "confidence": 0.0417,
+        "probabilities": {
+          "and": 0.3989,
+          "insufficient_evidence": 0.1971,
+          "or": 0.404
+        },
+        "type": "choice"
+      },
+      "confidence": 0.404,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.404,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "curated"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6069,
+        "choice": "or",
+        "confidence": 0.168,
+        "probabilities": {
+          "and": 0.2706,
+          "insufficient_evidence": 0.1225,
+          "or": 0.6069
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6069,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6069,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5581,
+        "choice": "or",
+        "confidence": 0.0985,
+        "probabilities": {
+          "and": 0.1983,
+          "insufficient_evidence": 0.2436,
+          "or": 0.5581
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5581,
+      "correct": false,
+      "expected": "and",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5581,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8411,
+        "choice": "or",
+        "confidence": 0.5022,
+        "probabilities": {
+          "and": 0.0888,
+          "insufficient_evidence": 0.0701,
+          "or": 0.8411
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8411,
+      "correct": true,
+      "expected": "or",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8411,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6192,
+        "choice": "or",
+        "confidence": 0.2309,
+        "probabilities": {
+          "and": 0.0692,
+          "insufficient_evidence": 0.3116,
+          "or": 0.6192
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6192,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6192,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5164,
+        "choice": "or",
+        "confidence": 0.2011,
+        "probabilities": {
+          "and": 0.062,
+          "insufficient_evidence": 0.4217,
+          "or": 0.5164
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5164,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5164,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5911,
+        "choice": "or",
+        "confidence": 0.2724,
+        "probabilities": {
+          "and": 0.0364,
+          "insufficient_evidence": 0.3725,
+          "or": 0.5911
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5911,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5911,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7208,
+        "choice": "or",
+        "confidence": 0.3527,
+        "probabilities": {
+          "and": 0.0424,
+          "insufficient_evidence": 0.2369,
+          "or": 0.7208
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7208,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7208,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6974,
+        "choice": "or",
+        "confidence": 0.3293,
+        "probabilities": {
+          "and": 0.043,
+          "insufficient_evidence": 0.2596,
+          "or": 0.6974
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6974,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6974,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5911,
+        "choice": "or",
+        "confidence": 0.2724,
+        "probabilities": {
+          "and": 0.0364,
+          "insufficient_evidence": 0.3725,
+          "or": 0.5911
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5911,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5911,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7235,
+        "choice": "or",
+        "confidence": 0.2909,
+        "probabilities": {
+          "and": 0.1205,
+          "insufficient_evidence": 0.156,
+          "or": 0.7235
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7235,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7235,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7504,
+        "choice": "or",
+        "confidence": 0.3655,
+        "probabilities": {
+          "and": 0.0579,
+          "insufficient_evidence": 0.1918,
+          "or": 0.7504
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7504,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7504,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6959,
+        "choice": "or",
+        "confidence": 0.2496,
+        "probabilities": {
+          "and": 0.1423,
+          "insufficient_evidence": 0.1618,
+          "or": 0.6959
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6959,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6959,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6933,
+        "choice": "or",
+        "confidence": 0.2488,
+        "probabilities": {
+          "and": 0.1294,
+          "insufficient_evidence": 0.1773,
+          "or": 0.6933
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6933,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6933,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7524,
+        "choice": "or",
+        "confidence": 0.3656,
+        "probabilities": {
+          "and": 0.0602,
+          "insufficient_evidence": 0.1874,
+          "or": 0.7524
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7524,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7524,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6407,
+        "choice": "or",
+        "confidence": 0.2358,
+        "probabilities": {
+          "and": 0.0769,
+          "insufficient_evidence": 0.2824,
+          "or": 0.6407
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6407,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6407,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7061,
+        "choice": "or",
+        "confidence": 0.2819,
+        "probabilities": {
+          "and": 0.0929,
+          "insufficient_evidence": 0.201,
+          "or": 0.7061
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7061,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7061,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6498,
+        "choice": "or",
+        "confidence": 0.279,
+        "probabilities": {
+          "and": 0.0505,
+          "insufficient_evidence": 0.2997,
+          "or": 0.6498
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6498,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6498,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7744,
+        "choice": "or",
+        "confidence": 0.3717,
+        "probabilities": {
+          "and": 0.1124,
+          "insufficient_evidence": 0.1132,
+          "or": 0.7744
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7744,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7744,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8589,
+        "choice": "or",
+        "confidence": 0.558,
+        "probabilities": {
+          "and": 0.0345,
+          "insufficient_evidence": 0.1067,
+          "or": 0.8589
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8589,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8589,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6551,
+        "choice": "or",
+        "confidence": 0.2032,
+        "probabilities": {
+          "and": 0.1357,
+          "insufficient_evidence": 0.2092,
+          "or": 0.6551
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6551,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6551,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8988,
+        "choice": "or",
+        "confidence": 0.6384,
+        "probabilities": {
+          "and": 0.0568,
+          "insufficient_evidence": 0.0445,
+          "or": 0.8988
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8988,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8988,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8262,
+        "choice": "or",
+        "confidence": 0.4727,
+        "probabilities": {
+          "and": 0.1033,
+          "insufficient_evidence": 0.0705,
+          "or": 0.8262
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8262,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8262,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7655,
+        "choice": "or",
+        "confidence": 0.3633,
+        "probabilities": {
+          "and": 0.0873,
+          "insufficient_evidence": 0.1472,
+          "or": 0.7655
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7655,
+      "correct": false,
+      "expected": "insufficient_evidence",
+      "language": null,
+      "model": "multilingual",
+      "qid": "relation",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7655,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "flat",
+        "synthetic_checked"
+      ]
+    }
+  ],
+  "config": {
+    "dataset": "/out/dataset.jsonl",
+    "device": "cpu",
+    "model": null,
+    "revisions": {
+      "multilingual": "55cf4c4ebb4ebe31b2550e8bdf3bd21b99753851"
+    },
+    "timing": {
+      "batch_form": "states",
+      "batch_size": 8,
+      "chunks": 25,
+      "cost_metric": "per decision: that call divided by its own chunk size",
+      "latency_metric": "per request: the wall time of the call that returned it, unsplit",
+      "max_chunk": 8,
+      "rows_alone": 0,
+      "rows_grouped": 200
+    }
+  },
+  "overall": {
+    "choice_accuracy": 0.28,
+    "cost_per_decision_p50_ms": 403.5978627499617,
+    "cost_per_decision_p95_ms": 976.2142456249876,
+    "ece": 0.4235255,
+    "latency_p50_ms": 3228.7829019996934,
+    "latency_p95_ms": 7809.713964999901,
+    "mean_confidence": 0.6994605
+  },
+  "slices": {
+    "model": {
+      "multilingual": {
+        "choice_accuracy": 0.28,
+        "ece": 0.4235255,
+        "mean_confidence": 0.6994605
+      }
+    },
+    "qid": {
+      "relation": {
+        "choice_accuracy": 0.28,
+        "ece": 0.4235255,
+        "mean_confidence": 0.6994605
+      }
+    },
+    "tag": {
+      "curated": {
+        "choice_accuracy": 0.13333333333333333,
+        "ece": 0.5068,
+        "mean_confidence": 0.6401333333333333
+      },
+      "flat": {
+        "choice_accuracy": 0.2717948717948718,
+        "ece": 0.4351625641025641,
+        "mean_confidence": 0.7027882051282052
+      },
+      "nested_inner": {
+        "choice_accuracy": 0.5,
+        "ece": 0.23177500000000004,
+        "mean_confidence": 0.560075
+      },
+      "nested_outer": {
+        "choice_accuracy": 1.0,
+        "ece": 0.3919,
+        "mean_confidence": 0.6081
+      },
+      "synthetic_checked": {
+        "choice_accuracy": 0.3225806451612903,
+        "ece": 0.3993490322580645,
+        "mean_confidence": 0.7166845161290323
+      }
+    }
+  }
+}
