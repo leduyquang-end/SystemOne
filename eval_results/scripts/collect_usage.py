@@ -14,9 +14,10 @@ def percentile(values, q):
 
 
 def main():
-    if len(sys.argv) != 3:
-        raise SystemExit("dung: collect_usage.py <dataset.jsonl> <usage.csv>")
+    if len(sys.argv) not in (3, 4):
+        raise SystemExit("dung: collect_usage.py <dataset.jsonl> <usage.csv> [model]")
     dataset_path, out_path = sys.argv[1], sys.argv[2]
+    forced_model = sys.argv[3] if len(sys.argv) == 4 else None
 
     rows = []
     with open(dataset_path, encoding="utf-8") as fh:
@@ -34,7 +35,8 @@ def main():
                          "input_tokens", "output_tokens"])
         for index, row in enumerate(rows):
             started = time.perf_counter()
-            result = router.predict(row["state"], row["questions"], model=row.get("model"))
+            result = router.predict(row["state"], row["questions"],
+                                    model=forced_model or row.get("model"))
             elapsed = (time.perf_counter() - started) * 1000.0
             latencies.append(elapsed)
             usage = result.get("usage") or {}

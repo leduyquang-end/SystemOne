@@ -1,0 +1,91 @@
+﻿tap,file,qid,threshold,so_case,dung,accuracy,baseline,ece,mean_confidence,tra_loi,coverage,accuracy_at_threshold,latency_p50_ms,latency_p95_ms,token_tb,token_tong
+P1 relation - data cty (gốc),p1_condition_relation/usage.csv,all,0.5,200,56,0.28,0.635,0.4235,0.6995,183,0.915,0.2951,378.0,710.2,165,32907
+P1 relation - data cty (gốc),p1_condition_relation/usage.csv,all,0.6,200,56,0.28,0.635,0.4235,0.6995,149,0.745,0.349,378.0,710.2,165,32907
+P1 relation - data cty (gốc),p1_condition_relation/usage.csv,all,0.7,200,56,0.28,0.635,0.4235,0.6995,96,0.48,0.4792,378.0,710.2,165,32907
+P1 relation - data cty (gốc),p1_condition_relation/usage.csv,all,0.8,200,56,0.28,0.635,0.4235,0.6995,58,0.29,0.7069,378.0,710.2,165,32907
+P1 relation - data cty (gốc),p1_condition_relation/usage.csv,all,0.9,200,56,0.28,0.635,0.4235,0.6995,15,0.075,0.9333,378.0,710.2,165,32907
+P1 relation - data cty (gốc),p1_condition_relation/usage.csv,all,0.95,200,56,0.28,0.635,0.4235,0.6995,3,0.015,1.0,378.0,710.2,165,32907
+P1 relation - sửa nhãn (requires_both/requires_either),optimized/p1_relabel_full_usage.csv,all,0.5,200,81,0.405,0.635,0.2207,0.6011,172,0.86,0.4012,377.5,770.8,169,33707
+P1 relation - sửa nhãn (requires_both/requires_either),optimized/p1_relabel_full_usage.csv,all,0.6,200,81,0.405,0.635,0.2207,0.6011,91,0.455,0.4945,377.5,770.8,169,33707
+P1 relation - sửa nhãn (requires_both/requires_either),optimized/p1_relabel_full_usage.csv,all,0.7,200,81,0.405,0.635,0.2207,0.6011,29,0.145,0.6552,377.5,770.8,169,33707
+P1 relation - sửa nhãn (requires_both/requires_either),optimized/p1_relabel_full_usage.csv,all,0.8,200,81,0.405,0.635,0.2207,0.6011,7,0.035,0.5714,377.5,770.8,169,33707
+P1 relation - sửa nhãn (requires_both/requires_either),optimized/p1_relabel_full_usage.csv,all,0.9,200,81,0.405,0.635,0.2207,0.6011,1,0.005,0.0,377.5,770.8,169,33707
+P1 relation - sửa nhãn (requires_both/requires_either),optimized/p1_relabel_full_usage.csv,all,0.95,200,81,0.405,0.635,0.2207,0.6011,0,0.0,,377.5,770.8,169,33707
+P1 relation - sửa nhãn + cân bằng lớp,optimized/p1_balanced_usage.csv,all,0.5,120,55,0.4583,0.3333,0.2208,0.6105,98,0.8167,0.4388,365.8,546.6,164,19652
+P1 relation - sửa nhãn + cân bằng lớp,optimized/p1_balanced_usage.csv,all,0.6,120,55,0.4583,0.3333,0.2208,0.6105,61,0.5083,0.5082,365.8,546.6,164,19652
+P1 relation - sửa nhãn + cân bằng lớp,optimized/p1_balanced_usage.csv,all,0.7,120,55,0.4583,0.3333,0.2208,0.6105,26,0.2167,0.5,365.8,546.6,164,19652
+P1 relation - sửa nhãn + cân bằng lớp,optimized/p1_balanced_usage.csv,all,0.8,120,55,0.4583,0.3333,0.2208,0.6105,6,0.05,0.6667,365.8,546.6,164,19652
+P1 relation - sửa nhãn + cân bằng lớp,optimized/p1_balanced_usage.csv,all,0.9,120,55,0.4583,0.3333,0.2208,0.6105,0,0.0,,365.8,546.6,164,19652
+P1 relation - sửa nhãn + cân bằng lớp,optimized/p1_balanced_usage.csv,all,0.95,120,55,0.4583,0.3333,0.2208,0.6105,0,0.0,,365.8,546.6,164,19652
+P2 performer - data cty (gốc),p2_performer_lane/usage.csv,performer,0.5,200,95,0.475,0.245,0.2571,0.7321,166,0.83,0.5,2070.1,3013.4,872,174352
+P2 performer - data cty (gốc),p2_performer_lane/usage.csv,performer,0.6,200,95,0.475,0.245,0.2571,0.7321,132,0.66,0.5227,2070.1,3013.4,872,174352
+P2 performer - data cty (gốc),p2_performer_lane/usage.csv,performer,0.7,200,95,0.475,0.245,0.2571,0.7321,100,0.5,0.56,2070.1,3013.4,872,174352
+P2 performer - data cty (gốc),p2_performer_lane/usage.csv,performer,0.8,200,95,0.475,0.245,0.2571,0.7321,85,0.425,0.5647,2070.1,3013.4,872,174352
+P2 performer - data cty (gốc),p2_performer_lane/usage.csv,performer,0.9,200,95,0.475,0.245,0.2571,0.7321,70,0.35,0.5571,2070.1,3013.4,872,174352
+P2 performer - data cty (gốc),p2_performer_lane/usage.csv,performer,0.95,200,95,0.475,0.245,0.2571,0.7321,53,0.265,0.5283,2070.1,3013.4,872,174352
+P2 evidence - data cty (gốc),p2_performer_lane/usage.csv,evidence,0.5,200,124,0.62,0.945,0.0693,0.6435,166,0.83,0.6627,2070.1,3013.4,872,174352
+P2 evidence - data cty (gốc),p2_performer_lane/usage.csv,evidence,0.6,200,124,0.62,0.945,0.0693,0.6435,108,0.54,0.7407,2070.1,3013.4,872,174352
+P2 evidence - data cty (gốc),p2_performer_lane/usage.csv,evidence,0.7,200,124,0.62,0.945,0.0693,0.6435,69,0.345,0.8261,2070.1,3013.4,872,174352
+P2 evidence - data cty (gốc),p2_performer_lane/usage.csv,evidence,0.8,200,124,0.62,0.945,0.0693,0.6435,34,0.17,0.9706,2070.1,3013.4,872,174352
+P2 evidence - data cty (gốc),p2_performer_lane/usage.csv,evidence,0.9,200,124,0.62,0.945,0.0693,0.6435,12,0.06,1.0,2070.1,3013.4,872,174352
+P2 evidence - data cty (gốc),p2_performer_lane/usage.csv,evidence,0.95,200,124,0.62,0.945,0.0693,0.6435,3,0.015,1.0,2070.1,3013.4,872,174352
+P2 mixed_lanes noul - data cty (gốc),p2_performer_lane/usage.csv,mixed_lanes,0.5,200,45,0.225,0.775,0.775,1.0,200,1.0,0.225,2070.1,3013.4,872,174352
+P2 mixed_lanes noul - data cty (gốc),p2_performer_lane/usage.csv,mixed_lanes,0.6,200,45,0.225,0.775,0.775,1.0,200,1.0,0.225,2070.1,3013.4,872,174352
+P2 mixed_lanes noul - data cty (gốc),p2_performer_lane/usage.csv,mixed_lanes,0.7,200,45,0.225,0.775,0.775,1.0,200,1.0,0.225,2070.1,3013.4,872,174352
+P2 mixed_lanes noul - data cty (gốc),p2_performer_lane/usage.csv,mixed_lanes,0.8,200,45,0.225,0.775,0.775,1.0,200,1.0,0.225,2070.1,3013.4,872,174352
+P2 mixed_lanes noul - data cty (gốc),p2_performer_lane/usage.csv,mixed_lanes,0.9,200,45,0.225,0.775,0.775,1.0,200,1.0,0.225,2070.1,3013.4,872,174352
+P2 mixed_lanes noul - data cty (gốc),p2_performer_lane/usage.csv,mixed_lanes,0.95,200,45,0.225,0.775,0.775,1.0,200,1.0,0.225,2070.1,3013.4,872,174352
+P2 3 câu hỏi - data cty (gốc),p2_performer_lane/usage.csv,all,0.5,600,264,0.44,0.315,0.3518,0.7918,532,0.8867,0.4474,2070.1,3013.4,872,174352
+P2 3 câu hỏi - data cty (gốc),p2_performer_lane/usage.csv,all,0.6,600,264,0.44,0.315,0.3518,0.7918,440,0.7333,0.4409,2070.1,3013.4,872,174352
+P2 3 câu hỏi - data cty (gốc),p2_performer_lane/usage.csv,all,0.7,600,264,0.44,0.315,0.3518,0.7918,369,0.615,0.4282,2070.1,3013.4,872,174352
+P2 3 câu hỏi - data cty (gốc),p2_performer_lane/usage.csv,all,0.8,600,264,0.44,0.315,0.3518,0.7918,319,0.5317,0.395,2070.1,3013.4,872,174352
+P2 3 câu hỏi - data cty (gốc),p2_performer_lane/usage.csv,all,0.9,600,264,0.44,0.315,0.3518,0.7918,282,0.47,0.3404,2070.1,3013.4,872,174352
+P2 3 câu hỏi - data cty (gốc),p2_performer_lane/usage.csv,all,0.95,600,264,0.44,0.315,0.3518,0.7918,256,0.4267,0.2969,2070.1,3013.4,872,174352
+P2 3 câu hỏi - sửa nhãn (mixed_lanes -> choice),optimized/p2_relabel_full_usage.csv,all,0.5,600,371,0.6183,0.315,0.0992,0.7175,532,0.8867,0.6485,1999.7,2941.0,910,181952
+P2 3 câu hỏi - sửa nhãn (mixed_lanes -> choice),optimized/p2_relabel_full_usage.csv,all,0.6,600,371,0.6183,0.315,0.0992,0.7175,425,0.7083,0.6824,1999.7,2941.0,910,181952
+P2 3 câu hỏi - sửa nhãn (mixed_lanes -> choice),optimized/p2_relabel_full_usage.csv,all,0.7,600,371,0.6183,0.315,0.0992,0.7175,320,0.5333,0.7063,1999.7,2941.0,910,181952
+P2 3 câu hỏi - sửa nhãn (mixed_lanes -> choice),optimized/p2_relabel_full_usage.csv,all,0.8,600,371,0.6183,0.315,0.0992,0.7175,212,0.3533,0.6981,1999.7,2941.0,910,181952
+P2 3 câu hỏi - sửa nhãn (mixed_lanes -> choice),optimized/p2_relabel_full_usage.csv,all,0.9,600,371,0.6183,0.315,0.0992,0.7175,105,0.175,0.6286,1999.7,2941.0,910,181952
+P2 3 câu hỏi - sửa nhãn (mixed_lanes -> choice),optimized/p2_relabel_full_usage.csv,all,0.95,600,371,0.6183,0.315,0.0992,0.7175,63,0.105,0.5238,1999.7,2941.0,910,181952
+P2 performer - cân bằng lớp,optimized/p2_performer_balanced_usage.csv,all,0.5,280,100,0.3571,0.1429,0.3362,0.6934,219,0.7821,0.379,717.0,1064.0,327,91519
+P2 performer - cân bằng lớp,optimized/p2_performer_balanced_usage.csv,all,0.6,280,100,0.3571,0.1429,0.3362,0.6934,169,0.6036,0.3905,717.0,1064.0,327,91519
+P2 performer - cân bằng lớp,optimized/p2_performer_balanced_usage.csv,all,0.7,280,100,0.3571,0.1429,0.3362,0.6934,117,0.4179,0.453,717.0,1064.0,327,91519
+P2 performer - cân bằng lớp,optimized/p2_performer_balanced_usage.csv,all,0.8,280,100,0.3571,0.1429,0.3362,0.6934,98,0.35,0.449,717.0,1064.0,327,91519
+P2 performer - cân bằng lớp,optimized/p2_performer_balanced_usage.csv,all,0.9,280,100,0.3571,0.1429,0.3362,0.6934,83,0.2964,0.4337,717.0,1064.0,327,91519
+P2 performer - cân bằng lớp,optimized/p2_performer_balanced_usage.csv,all,0.95,280,100,0.3571,0.1429,0.3362,0.6934,54,0.1929,0.463,717.0,1064.0,327,91519
+P2 evidence - cân bằng lớp,optimized/p2_evidence_balanced_usage.csv,all,0.5,120,40,0.3333,0.3333,0.3494,0.6383,108,0.9,0.3611,547.4,830.0,249,29838
+P2 evidence - cân bằng lớp,optimized/p2_evidence_balanced_usage.csv,all,0.6,120,40,0.3333,0.3333,0.3494,0.6383,48,0.4,0.5208,547.4,830.0,249,29838
+P2 evidence - cân bằng lớp,optimized/p2_evidence_balanced_usage.csv,all,0.7,120,40,0.3333,0.3333,0.3494,0.6383,39,0.325,0.5128,547.4,830.0,249,29838
+P2 evidence - cân bằng lớp,optimized/p2_evidence_balanced_usage.csv,all,0.8,120,40,0.3333,0.3333,0.3494,0.6383,14,0.1167,1.0,547.4,830.0,249,29838
+P2 evidence - cân bằng lớp,optimized/p2_evidence_balanced_usage.csv,all,0.9,120,40,0.3333,0.3333,0.3494,0.6383,1,0.0083,1.0,547.4,830.0,249,29838
+P2 evidence - cân bằng lớp,optimized/p2_evidence_balanced_usage.csv,all,0.95,120,40,0.3333,0.3333,0.3494,0.6383,0,0.0,,547.4,830.0,249,29838
+P2 mixed_lanes noul - cân bằng lớp,optimized/p2_mixed_lanes_balanced_usage.csv,all,0.5,80,40,0.5,0.5,0.5,1.0,80,1.0,0.5,600.0,953.0,272,21725
+P2 mixed_lanes noul - cân bằng lớp,optimized/p2_mixed_lanes_balanced_usage.csv,all,0.6,80,40,0.5,0.5,0.5,1.0,80,1.0,0.5,600.0,953.0,272,21725
+P2 mixed_lanes noul - cân bằng lớp,optimized/p2_mixed_lanes_balanced_usage.csv,all,0.7,80,40,0.5,0.5,0.5,1.0,80,1.0,0.5,600.0,953.0,272,21725
+P2 mixed_lanes noul - cân bằng lớp,optimized/p2_mixed_lanes_balanced_usage.csv,all,0.8,80,40,0.5,0.5,0.5,1.0,80,1.0,0.5,600.0,953.0,272,21725
+P2 mixed_lanes noul - cân bằng lớp,optimized/p2_mixed_lanes_balanced_usage.csv,all,0.9,80,40,0.5,0.5,0.5,1.0,80,1.0,0.5,600.0,953.0,272,21725
+P2 mixed_lanes noul - cân bằng lớp,optimized/p2_mixed_lanes_balanced_usage.csv,all,0.95,80,40,0.5,0.5,0.5,1.0,80,1.0,0.5,600.0,953.0,272,21725
+P2 mixed_lanes choice - sửa nhãn + cân bằng,optimized/p2_mixed_lanes_choice_balanced_usage.csv,all,0.5,80,41,0.5125,0.5,0.2937,0.7932,80,1.0,0.5125,684.1,974.6,304,24286
+P2 mixed_lanes choice - sửa nhãn + cân bằng,optimized/p2_mixed_lanes_choice_balanced_usage.csv,all,0.6,80,41,0.5125,0.5,0.2937,0.7932,75,0.9375,0.52,684.1,974.6,304,24286
+P2 mixed_lanes choice - sửa nhãn + cân bằng,optimized/p2_mixed_lanes_choice_balanced_usage.csv,all,0.7,80,41,0.5125,0.5,0.2937,0.7932,63,0.7875,0.5079,684.1,974.6,304,24286
+P2 mixed_lanes choice - sửa nhãn + cân bằng,optimized/p2_mixed_lanes_choice_balanced_usage.csv,all,0.8,80,41,0.5125,0.5,0.2937,0.7932,42,0.525,0.4762,684.1,974.6,304,24286
+P2 mixed_lanes choice - sửa nhãn + cân bằng,optimized/p2_mixed_lanes_choice_balanced_usage.csv,all,0.9,80,41,0.5125,0.5,0.2937,0.7932,13,0.1625,0.3846,684.1,974.6,304,24286
+P2 mixed_lanes choice - sửa nhãn + cân bằng,optimized/p2_mixed_lanes_choice_balanced_usage.csv,all,0.95,80,41,0.5125,0.5,0.2937,0.7932,6,0.075,0.1667,684.1,974.6,304,24286
+Laya benchmark ag_news,standard_benchmarks/ag_news_usage.csv,all,0.5,200,186,0.93,0.25,0.0608,0.9702,199,0.995,0.9347,291.0,370.9,122,24433
+Laya benchmark ag_news,standard_benchmarks/ag_news_usage.csv,all,0.6,200,186,0.93,0.25,0.0608,0.9702,196,0.98,0.9388,291.0,370.9,122,24433
+Laya benchmark ag_news,standard_benchmarks/ag_news_usage.csv,all,0.7,200,186,0.93,0.25,0.0608,0.9702,192,0.96,0.9427,291.0,370.9,122,24433
+Laya benchmark ag_news,standard_benchmarks/ag_news_usage.csv,all,0.8,200,186,0.93,0.25,0.0608,0.9702,189,0.945,0.9418,291.0,370.9,122,24433
+Laya benchmark ag_news,standard_benchmarks/ag_news_usage.csv,all,0.9,200,186,0.93,0.25,0.0608,0.9702,184,0.92,0.9511,291.0,370.9,122,24433
+Laya benchmark ag_news,standard_benchmarks/ag_news_usage.csv,all,0.95,200,186,0.93,0.25,0.0608,0.9702,174,0.87,0.9598,291.0,370.9,122,24433
+Laya benchmark emotion,standard_benchmarks/emotion_usage.csv,all,0.5,200,112,0.56,0.35,0.2671,0.8267,180,0.9,0.5944,243.4,309.2,101,20139
+Laya benchmark emotion,standard_benchmarks/emotion_usage.csv,all,0.6,200,112,0.56,0.35,0.2671,0.8267,160,0.8,0.6062,243.4,309.2,101,20139
+Laya benchmark emotion,standard_benchmarks/emotion_usage.csv,all,0.7,200,112,0.56,0.35,0.2671,0.8267,147,0.735,0.619,243.4,309.2,101,20139
+Laya benchmark emotion,standard_benchmarks/emotion_usage.csv,all,0.8,200,112,0.56,0.35,0.2671,0.8267,135,0.675,0.6296,243.4,309.2,101,20139
+Laya benchmark emotion,standard_benchmarks/emotion_usage.csv,all,0.9,200,112,0.56,0.35,0.2671,0.8267,115,0.575,0.6435,243.4,309.2,101,20139
+Laya benchmark emotion,standard_benchmarks/emotion_usage.csv,all,0.95,200,112,0.56,0.35,0.2671,0.8267,89,0.445,0.6517,243.4,309.2,101,20139
+Laya benchmark enron_spam,standard_benchmarks/enron_spam_usage.csv,all,0.5,200,159,0.795,0.505,0.1711,0.9661,200,1.0,0.795,498.8,2707.4,351,70234
+Laya benchmark enron_spam,standard_benchmarks/enron_spam_usage.csv,all,0.6,200,159,0.795,0.505,0.1711,0.9661,195,0.975,0.8103,498.8,2707.4,351,70234
+Laya benchmark enron_spam,standard_benchmarks/enron_spam_usage.csv,all,0.7,200,159,0.795,0.505,0.1711,0.9661,195,0.975,0.8103,498.8,2707.4,351,70234
+Laya benchmark enron_spam,standard_benchmarks/enron_spam_usage.csv,all,0.8,200,159,0.795,0.505,0.1711,0.9661,189,0.945,0.8201,498.8,2707.4,351,70234
+Laya benchmark enron_spam,standard_benchmarks/enron_spam_usage.csv,all,0.9,200,159,0.795,0.505,0.1711,0.9661,178,0.89,0.8258,498.8,2707.4,351,70234
+Laya benchmark enron_spam,standard_benchmarks/enron_spam_usage.csv,all,0.95,200,159,0.795,0.505,0.1711,0.9661,165,0.825,0.8545,498.8,2707.4,351,70234

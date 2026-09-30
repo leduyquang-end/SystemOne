@@ -1,0 +1,6266 @@
+{
+  "cases": [
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "ham",
+        "confidence": 0.999,
+        "probabilities": {
+          "ham": 0.9999,
+          "spam": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9929,
+        "choice": "spam",
+        "confidence": 0.9393,
+        "probabilities": {
+          "ham": 0.0071,
+          "spam": 0.9929
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9929,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9929,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.959,
+        "choice": "ham",
+        "confidence": 0.7533,
+        "probabilities": {
+          "ham": 0.959,
+          "spam": 0.041
+        },
+        "type": "choice"
+      },
+      "confidence": 0.959,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.959,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8933,
+        "choice": "ham",
+        "confidence": 0.5102,
+        "probabilities": {
+          "ham": 0.8933,
+          "spam": 0.1067
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8933,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8933,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9016,
+        "choice": "ham",
+        "confidence": 0.536,
+        "probabilities": {
+          "ham": 0.9016,
+          "spam": 0.0984
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9016,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9016,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "spam",
+        "confidence": 0.9945,
+        "probabilities": {
+          "ham": 0.0004,
+          "spam": 0.9996
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7857,
+        "choice": "spam",
+        "confidence": 0.2504,
+        "probabilities": {
+          "ham": 0.2143,
+          "spam": 0.7857
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7857,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7857,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.995,
+        "choice": "ham",
+        "confidence": 0.9544,
+        "probabilities": {
+          "ham": 0.995,
+          "spam": 0.005
+        },
+        "type": "choice"
+      },
+      "confidence": 0.995,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "ham",
+        "confidence": 0.9987,
+        "probabilities": {
+          "ham": 0.9999,
+          "spam": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "spam",
+        "confidence": 0.9975,
+        "probabilities": {
+          "ham": 0.0002,
+          "spam": 0.9998
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5102,
+        "choice": "spam",
+        "confidence": 0.0003,
+        "probabilities": {
+          "ham": 0.4898,
+          "spam": 0.5102
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5102,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5102,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9495,
+        "choice": "spam",
+        "confidence": 0.7116,
+        "probabilities": {
+          "ham": 0.0505,
+          "spam": 0.9495
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9495,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9495,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9992,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.992,
+        "choice": "ham",
+        "confidence": 0.9327,
+        "probabilities": {
+          "ham": 0.992,
+          "spam": 0.008
+        },
+        "type": "choice"
+      },
+      "confidence": 0.992,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.992,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9935,
+        "choice": "ham",
+        "confidence": 0.9435,
+        "probabilities": {
+          "ham": 0.9935,
+          "spam": 0.0065
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9935,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9935,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9341,
+        "choice": "spam",
+        "confidence": 0.6495,
+        "probabilities": {
+          "ham": 0.0659,
+          "spam": 0.9341
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9341,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9341,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9953,
+        "choice": "ham",
+        "confidence": 0.9567,
+        "probabilities": {
+          "ham": 0.9953,
+          "spam": 0.0047
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9953,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9953,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 0.9999,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9965,
+        "choice": "spam",
+        "confidence": 0.9667,
+        "probabilities": {
+          "ham": 0.0035,
+          "spam": 0.9965
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9965,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9965,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9846,
+        "choice": "ham",
+        "confidence": 0.8854,
+        "probabilities": {
+          "ham": 0.9846,
+          "spam": 0.0154
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9846,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9846,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9999,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9557,
+        "choice": "ham",
+        "confidence": 0.7385,
+        "probabilities": {
+          "ham": 0.9557,
+          "spam": 0.0443
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9557,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9557,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 0.9999,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7372,
+        "choice": "spam",
+        "confidence": 0.169,
+        "probabilities": {
+          "ham": 0.2628,
+          "spam": 0.7372
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7372,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7372,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9947,
+        "choice": "spam",
+        "confidence": 0.9526,
+        "probabilities": {
+          "ham": 0.0053,
+          "spam": 0.9947
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9947,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9947,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8906,
+        "choice": "spam",
+        "confidence": 0.5019,
+        "probabilities": {
+          "ham": 0.1094,
+          "spam": 0.8906
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8906,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8906,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8501,
+        "choice": "ham",
+        "confidence": 0.3905,
+        "probabilities": {
+          "ham": 0.8501,
+          "spam": 0.1499
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8501,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8501,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "ham",
+        "confidence": 0.9973,
+        "probabilities": {
+          "ham": 0.9998,
+          "spam": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "ham",
+        "confidence": 0.9931,
+        "probabilities": {
+          "ham": 0.9994,
+          "spam": 0.0006
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9966,
+        "choice": "ham",
+        "confidence": 0.9668,
+        "probabilities": {
+          "ham": 0.9966,
+          "spam": 0.0034
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9966,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9966,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9999,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9922,
+        "choice": "ham",
+        "confidence": 0.9344,
+        "probabilities": {
+          "ham": 0.9922,
+          "spam": 0.0078
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9922,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9922,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8828,
+        "choice": "spam",
+        "confidence": 0.4789,
+        "probabilities": {
+          "ham": 0.1172,
+          "spam": 0.8828
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8828,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8828,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8333,
+        "choice": "spam",
+        "confidence": 0.3499,
+        "probabilities": {
+          "ham": 0.1667,
+          "spam": 0.8333
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8333,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8333,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9983,
+        "choice": "ham",
+        "confidence": 0.9815,
+        "probabilities": {
+          "ham": 0.9983,
+          "spam": 0.0017
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9983,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9983,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "ham",
+        "confidence": 0.9951,
+        "probabilities": {
+          "ham": 0.9996,
+          "spam": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9299,
+        "choice": "spam",
+        "confidence": 0.6338,
+        "probabilities": {
+          "ham": 0.0701,
+          "spam": 0.9299
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9299,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9299,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5415,
+        "choice": "spam",
+        "confidence": 0.005,
+        "probabilities": {
+          "ham": 0.4585,
+          "spam": 0.5415
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5415,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5415,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 0.9994,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9994,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9946,
+        "choice": "spam",
+        "confidence": 0.9517,
+        "probabilities": {
+          "ham": 0.0054,
+          "spam": 0.9946
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9946,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9946,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9999,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.535,
+        "choice": "ham",
+        "confidence": 0.0035,
+        "probabilities": {
+          "ham": 0.535,
+          "spam": 0.465
+        },
+        "type": "choice"
+      },
+      "confidence": 0.535,
+      "correct": false,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.535,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9986,
+        "choice": "ham",
+        "confidence": 0.9845,
+        "probabilities": {
+          "ham": 0.9986,
+          "spam": 0.0014
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9986,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9986,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "spam",
+        "confidence": 0.9972,
+        "probabilities": {
+          "ham": 0.0002,
+          "spam": 0.9998
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9237,
+        "choice": "spam",
+        "confidence": 0.611,
+        "probabilities": {
+          "ham": 0.0763,
+          "spam": 0.9237
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9237,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9237,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.972,
+        "choice": "spam",
+        "confidence": 0.8157,
+        "probabilities": {
+          "ham": 0.028,
+          "spam": 0.972
+        },
+        "type": "choice"
+      },
+      "confidence": 0.972,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.972,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "ham",
+        "confidence": 0.9962,
+        "probabilities": {
+          "ham": 0.9997,
+          "spam": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8712,
+        "choice": "spam",
+        "confidence": 0.4459,
+        "probabilities": {
+          "ham": 0.1288,
+          "spam": 0.8712
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8712,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8712,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9402,
+        "choice": "spam",
+        "confidence": 0.6733,
+        "probabilities": {
+          "ham": 0.0598,
+          "spam": 0.9402
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9402,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9402,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8876,
+        "choice": "spam",
+        "confidence": 0.4929,
+        "probabilities": {
+          "ham": 0.1124,
+          "spam": 0.8876
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8876,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8876,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9944,
+        "choice": "spam",
+        "confidence": 0.9504,
+        "probabilities": {
+          "ham": 0.0056,
+          "spam": 0.9944
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9944,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9944,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 0.9998,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9979,
+        "choice": "ham",
+        "confidence": 0.9781,
+        "probabilities": {
+          "ham": 0.9979,
+          "spam": 0.0021
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9979,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9979,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7949,
+        "choice": "spam",
+        "confidence": 0.2681,
+        "probabilities": {
+          "ham": 0.2051,
+          "spam": 0.7949
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7949,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7949,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9992,
+        "choice": "spam",
+        "confidence": 0.9906,
+        "probabilities": {
+          "ham": 0.0008,
+          "spam": 0.9992
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9992,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9992,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "ham",
+        "confidence": 0.9988,
+        "probabilities": {
+          "ham": 0.9999,
+          "spam": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "ham",
+        "confidence": 0.9975,
+        "probabilities": {
+          "ham": 0.9998,
+          "spam": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.948,
+        "choice": "spam",
+        "confidence": 0.7051,
+        "probabilities": {
+          "ham": 0.052,
+          "spam": 0.948
+        },
+        "type": "choice"
+      },
+      "confidence": 0.948,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.948,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9092,
+        "choice": "ham",
+        "confidence": 0.5608,
+        "probabilities": {
+          "ham": 0.9092,
+          "spam": 0.0908
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9092,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9092,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9839,
+        "choice": "spam",
+        "confidence": 0.8813,
+        "probabilities": {
+          "ham": 0.0161,
+          "spam": 0.9839
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9839,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9839,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9935,
+        "choice": "spam",
+        "confidence": 0.9437,
+        "probabilities": {
+          "ham": 0.0065,
+          "spam": 0.9935
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9935,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9935,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8117,
+        "choice": "ham",
+        "confidence": 0.3022,
+        "probabilities": {
+          "ham": 0.8117,
+          "spam": 0.1883
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8117,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8117,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8521,
+        "choice": "ham",
+        "confidence": 0.3954,
+        "probabilities": {
+          "ham": 0.8521,
+          "spam": 0.1479
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8521,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8521,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7401,
+        "choice": "spam",
+        "confidence": 0.1734,
+        "probabilities": {
+          "ham": 0.2599,
+          "spam": 0.7401
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7401,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7401,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "spam",
+        "confidence": 0.9933,
+        "probabilities": {
+          "ham": 0.0005,
+          "spam": 0.9995
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9975,
+        "choice": "spam",
+        "confidence": 0.975,
+        "probabilities": {
+          "ham": 0.0025,
+          "spam": 0.9975
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9975,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9975,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "spam",
+        "confidence": 0.9988,
+        "probabilities": {
+          "ham": 0.0001,
+          "spam": 0.9999
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9254,
+        "choice": "ham",
+        "confidence": 0.6171,
+        "probabilities": {
+          "ham": 0.9254,
+          "spam": 0.0746
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9254,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9254,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.988,
+        "choice": "spam",
+        "confidence": 0.9061,
+        "probabilities": {
+          "ham": 0.012,
+          "spam": 0.988
+        },
+        "type": "choice"
+      },
+      "confidence": 0.988,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.988,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9948,
+        "choice": "ham",
+        "confidence": 0.9528,
+        "probabilities": {
+          "ham": 0.9948,
+          "spam": 0.0052
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9948,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9948,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "spam",
+        "confidence": 0.9975,
+        "probabilities": {
+          "ham": 0.0002,
+          "spam": 0.9998
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8462,
+        "choice": "ham",
+        "confidence": 0.3806,
+        "probabilities": {
+          "ham": 0.8462,
+          "spam": 0.1538
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8462,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8462,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9958,
+        "choice": "ham",
+        "confidence": 0.9604,
+        "probabilities": {
+          "ham": 0.9958,
+          "spam": 0.0042
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9958,
+      "correct": false,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9958,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9951,
+        "choice": "ham",
+        "confidence": 0.955,
+        "probabilities": {
+          "ham": 0.9951,
+          "spam": 0.0049
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9951,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9951,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9994,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9996,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "ham",
+        "confidence": 0.9979,
+        "probabilities": {
+          "ham": 0.9999,
+          "spam": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9912,
+        "choice": "spam",
+        "confidence": 0.927,
+        "probabilities": {
+          "ham": 0.0088,
+          "spam": 0.9912
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9912,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9912,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9988,
+        "choice": "spam",
+        "confidence": 0.9868,
+        "probabilities": {
+          "ham": 0.0012,
+          "spam": 0.9988
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9988,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9988,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "ham",
+        "confidence": 0.9925,
+        "probabilities": {
+          "ham": 0.9994,
+          "spam": 0.0006
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9768,
+        "choice": "spam",
+        "confidence": 0.8409,
+        "probabilities": {
+          "ham": 0.0232,
+          "spam": 0.9768
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9768,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9768,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9989,
+        "choice": "spam",
+        "confidence": 0.9871,
+        "probabilities": {
+          "ham": 0.0011,
+          "spam": 0.9989
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9989,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9989,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "spam",
+        "confidence": 0.9941,
+        "probabilities": {
+          "ham": 0.0005,
+          "spam": 0.9995
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9879,
+        "choice": "spam",
+        "confidence": 0.9057,
+        "probabilities": {
+          "ham": 0.0121,
+          "spam": 0.9879
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9879,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9879,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9993,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5065,
+        "choice": "ham",
+        "confidence": 0.0001,
+        "probabilities": {
+          "ham": 0.5065,
+          "spam": 0.4935
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5065,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5065,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9995,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9816,
+        "choice": "spam",
+        "confidence": 0.8678,
+        "probabilities": {
+          "ham": 0.0184,
+          "spam": 0.9816
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9816,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9816,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9482,
+        "choice": "ham",
+        "confidence": 0.7061,
+        "probabilities": {
+          "ham": 0.9482,
+          "spam": 0.0518
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9482,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9482,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9998,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "ham",
+        "confidence": 0.9961,
+        "probabilities": {
+          "ham": 0.9997,
+          "spam": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9993,
+        "choice": "ham",
+        "confidence": 0.9914,
+        "probabilities": {
+          "ham": 0.9993,
+          "spam": 0.0007
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9993,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9993,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9681,
+        "choice": "ham",
+        "confidence": 0.7959,
+        "probabilities": {
+          "ham": 0.9681,
+          "spam": 0.0319
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9681,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9681,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9377,
+        "choice": "spam",
+        "confidence": 0.6635,
+        "probabilities": {
+          "ham": 0.0623,
+          "spam": 0.9377
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9377,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9377,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "spam",
+        "confidence": 0.9986,
+        "probabilities": {
+          "ham": 0.0001,
+          "spam": 0.9999
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5886,
+        "choice": "spam",
+        "confidence": 0.0228,
+        "probabilities": {
+          "ham": 0.4114,
+          "spam": 0.5886
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5886,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5886,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7123,
+        "choice": "spam",
+        "confidence": 0.1342,
+        "probabilities": {
+          "ham": 0.2877,
+          "spam": 0.7123
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7123,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7123,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9952,
+        "choice": "spam",
+        "confidence": 0.9564,
+        "probabilities": {
+          "ham": 0.0048,
+          "spam": 0.9952
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9952,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9952,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9987,
+        "choice": "spam",
+        "confidence": 0.9858,
+        "probabilities": {
+          "ham": 0.0013,
+          "spam": 0.9987
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9987,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9987,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "ham",
+        "confidence": 0.9962,
+        "probabilities": {
+          "ham": 0.9997,
+          "spam": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9994,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9992,
+        "choice": "spam",
+        "confidence": 0.9902,
+        "probabilities": {
+          "ham": 0.0008,
+          "spam": 0.9992
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9992,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9992,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9999,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.994,
+        "choice": "ham",
+        "confidence": 0.9468,
+        "probabilities": {
+          "ham": 0.994,
+          "spam": 0.006
+        },
+        "type": "choice"
+      },
+      "confidence": 0.994,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 0.9996,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9998,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9992,
+        "choice": "spam",
+        "confidence": 0.9903,
+        "probabilities": {
+          "ham": 0.0008,
+          "spam": 0.9992
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9992,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9992,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "spam",
+        "confidence": 0.996,
+        "probabilities": {
+          "ham": 0.0003,
+          "spam": 0.9997
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "spam",
+        "confidence": 0.9958,
+        "probabilities": {
+          "ham": 0.0003,
+          "spam": 0.9997
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9818,
+        "choice": "spam",
+        "confidence": 0.8687,
+        "probabilities": {
+          "ham": 0.0182,
+          "spam": 0.9818
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9818,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9818,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "spam",
+        "confidence": 0.9968,
+        "probabilities": {
+          "ham": 0.0002,
+          "spam": 0.9998
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7277,
+        "choice": "ham",
+        "confidence": 0.1553,
+        "probabilities": {
+          "ham": 0.7277,
+          "spam": 0.2723
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7277,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7277,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "ham",
+        "confidence": 0.9995,
+        "probabilities": {
+          "ham": 1.0,
+          "spam": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9998,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9999,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9999,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9274,
+        "choice": "spam",
+        "confidence": 0.6246,
+        "probabilities": {
+          "ham": 0.0726,
+          "spam": 0.9274
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9274,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9274,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9932,
+        "choice": "ham",
+        "confidence": 0.9411,
+        "probabilities": {
+          "ham": 0.9932,
+          "spam": 0.0068
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9932,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9932,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9912,
+        "choice": "spam",
+        "confidence": 0.9274,
+        "probabilities": {
+          "ham": 0.0088,
+          "spam": 0.9912
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9912,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9912,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9967,
+        "choice": "spam",
+        "confidence": 0.9679,
+        "probabilities": {
+          "ham": 0.0033,
+          "spam": 0.9967
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9967,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9967,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "spam",
+        "confidence": 0.9954,
+        "probabilities": {
+          "ham": 0.0004,
+          "spam": 0.9996
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9993,
+        "choice": "spam",
+        "confidence": 0.9917,
+        "probabilities": {
+          "ham": 0.0007,
+          "spam": 0.9993
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9993,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9993,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8479,
+        "choice": "ham",
+        "confidence": 0.385,
+        "probabilities": {
+          "ham": 0.8479,
+          "spam": 0.1521
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8479,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8479,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "ham",
+        "confidence": 0.9944,
+        "probabilities": {
+          "ham": 0.9996,
+          "spam": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9594,
+        "choice": "spam",
+        "confidence": 0.755,
+        "probabilities": {
+          "ham": 0.0406,
+          "spam": 0.9594
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9594,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9594,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9727,
+        "choice": "spam",
+        "confidence": 0.8193,
+        "probabilities": {
+          "ham": 0.0273,
+          "spam": 0.9727
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9727,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9727,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "ham",
+        "confidence": 0.9991,
+        "probabilities": {
+          "ham": 0.9999,
+          "spam": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9149,
+        "choice": "spam",
+        "confidence": 0.5802,
+        "probabilities": {
+          "ham": 0.0851,
+          "spam": 0.9149
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9149,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9149,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9867,
+        "choice": "spam",
+        "confidence": 0.8982,
+        "probabilities": {
+          "ham": 0.0133,
+          "spam": 0.9867
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9867,
+      "correct": false,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9867,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9997,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9953,
+        "choice": "ham",
+        "confidence": 0.9572,
+        "probabilities": {
+          "ham": 0.9953,
+          "spam": 0.0047
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9953,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9953,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 0.9998,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9953,
+        "choice": "ham",
+        "confidence": 0.9572,
+        "probabilities": {
+          "ham": 0.9953,
+          "spam": 0.0047
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9953,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9953,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9765,
+        "choice": "spam",
+        "confidence": 0.8395,
+        "probabilities": {
+          "ham": 0.0235,
+          "spam": 0.9765
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9765,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9765,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9993,
+        "choice": "ham",
+        "confidence": 0.9912,
+        "probabilities": {
+          "ham": 0.9993,
+          "spam": 0.0007
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9993,
+      "correct": true,
+      "expected": "ham",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9993,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "spam",
+        "confidence": 1.0,
+        "probabilities": {
+          "ham": 0.0,
+          "spam": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "spam",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "spam",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "enron_spam"
+      ]
+    }
+  ],
+  "config": {
+    "dataset": "/out/standard_benchmarks/enron_spam.jsonl",
+    "device": "cpu",
+    "model": "multilingual",
+    "revisions": {
+      "multilingual": "55cf4c4ebb4ebe31b2550e8bdf3bd21b99753851"
+    },
+    "timing": {
+      "batch_form": "states",
+      "batch_size": 8,
+      "chunks": 25,
+      "cost_metric": "per decision: that call divided by its own chunk size",
+      "latency_metric": "per request: the wall time of the call that returned it, unsplit",
+      "max_chunk": 8,
+      "rows_alone": 0,
+      "rows_grouped": 200
+    }
+  },
+  "overall": {
+    "choice_accuracy": 0.795,
+    "cost_per_decision_p50_ms": 2642.0540500000056,
+    "cost_per_decision_p95_ms": 3142.966525124997,
+    "ece": 0.17108499999999988,
+    "latency_p50_ms": 21136.432400000045,
+    "latency_p95_ms": 25143.732200999977,
+    "mean_confidence": 0.9660850000000001
+  },
+  "slices": {
+    "language": {
+      "en": {
+        "choice_accuracy": 0.795,
+        "ece": 0.17108499999999988,
+        "mean_confidence": 0.9660850000000001
+      }
+    },
+    "model": {
+      "multilingual": {
+        "choice_accuracy": 0.795,
+        "ece": 0.17108499999999988,
+        "mean_confidence": 0.9660850000000001
+      }
+    },
+    "qid": {
+      "spam": {
+        "choice_accuracy": 0.795,
+        "ece": 0.17108499999999988,
+        "mean_confidence": 0.9660850000000001
+      }
+    },
+    "tag": {
+      "benchmark": {
+        "choice_accuracy": 0.795,
+        "ece": 0.17108499999999988,
+        "mean_confidence": 0.9660850000000001
+      },
+      "enron_spam": {
+        "choice_accuracy": 0.795,
+        "ece": 0.17108499999999988,
+        "mean_confidence": 0.9660850000000001
+      }
+    }
+  }
+}

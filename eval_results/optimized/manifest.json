@@ -1,0 +1,204 @@
+{
+  "seed": 13,
+  "target_per_class": 40,
+  "files": {
+    "p1_relabel_full": {
+      "rows": 200,
+      "questions": "relation",
+      "note": "200 mau goc, chi doi nhan and/or -> requires_both/requires_either",
+      "labels": {
+        "insufficient_evidence": 20,
+        "requires_both": 127,
+        "requires_either": 53
+      },
+      "balance": null
+    },
+    "p1_balanced": {
+      "rows": 120,
+      "questions": "relation",
+      "note": "nhan moi + can bang lop (moi lop 40 mau)",
+      "labels": {
+        "insufficient_evidence": 40,
+        "requires_both": 40,
+        "requires_either": 40
+      },
+      "balance": {
+        "insufficient_evidence": {
+          "before": 20,
+          "after": 40,
+          "duplicated": 20,
+          "dropped": 0
+        },
+        "requires_both": {
+          "before": 127,
+          "after": 40,
+          "duplicated": 0,
+          "dropped": 87
+        },
+        "requires_either": {
+          "before": 53,
+          "after": 40,
+          "duplicated": 0,
+          "dropped": 13
+        }
+      }
+    },
+    "p2_relabel_full": {
+      "rows": 200,
+      "questions": "performer",
+      "note": "200 mau goc; mixed_lanes chuyen tu noul true/false sang choice tach_rieng/khong_can_tach; performance + evidence giu nhan goc",
+      "labels": {
+        "insufficient_evidence": 7,
+        "merchant_app_client": 25,
+        "merchant_app_server": 9,
+        "pmkt_core": 33,
+        "pmkt_frontend": 43,
+        "vcb_mobile": 34,
+        "vcb_server": 49
+      },
+      "balance": null
+    },
+    "p2_performer_balanced": {
+      "rows": 280,
+      "questions": "performer",
+      "note": "chi cau hoi performer, can bang 40 mau/lop",
+      "labels": {
+        "insufficient_evidence": 40,
+        "merchant_app_client": 40,
+        "merchant_app_server": 40,
+        "pmkt_core": 40,
+        "pmkt_frontend": 40,
+        "vcb_mobile": 40,
+        "vcb_server": 40
+      },
+      "balance": {
+        "insufficient_evidence": {
+          "before": 7,
+          "after": 40,
+          "duplicated": 33,
+          "dropped": 0
+        },
+        "merchant_app_client": {
+          "before": 25,
+          "after": 40,
+          "duplicated": 15,
+          "dropped": 0
+        },
+        "merchant_app_server": {
+          "before": 9,
+          "after": 40,
+          "duplicated": 31,
+          "dropped": 0
+        },
+        "pmkt_core": {
+          "before": 33,
+          "after": 40,
+          "duplicated": 7,
+          "dropped": 0
+        },
+        "pmkt_frontend": {
+          "before": 43,
+          "after": 40,
+          "duplicated": 0,
+          "dropped": 3
+        },
+        "vcb_mobile": {
+          "before": 34,
+          "after": 40,
+          "duplicated": 6,
+          "dropped": 0
+        },
+        "vcb_server": {
+          "before": 49,
+          "after": 40,
+          "duplicated": 0,
+          "dropped": 9
+        }
+      }
+    },
+    "p2_evidence_balanced": {
+      "rows": 120,
+      "questions": "evidence",
+      "note": "chi cau hoi evidence, can bang 40 mau/lop",
+      "labels": {
+        "context": 40,
+        "object": 40,
+        "verb": 40
+      },
+      "balance": {
+        "context": {
+          "before": 9,
+          "after": 40,
+          "duplicated": 31,
+          "dropped": 0
+        },
+        "object": {
+          "before": 2,
+          "after": 40,
+          "duplicated": 38,
+          "dropped": 0
+        },
+        "verb": {
+          "before": 189,
+          "after": 40,
+          "duplicated": 0,
+          "dropped": 149
+        }
+      }
+    },
+    "p2_mixed_lanes_balanced": {
+      "rows": 80,
+      "questions": "mixed_lanes",
+      "note": "noul true/false goc, can bang 40 mau/nhan",
+      "labels": {
+        "False": 40,
+        "True": 40
+      },
+      "balance": {
+        "False": {
+          "before": 155,
+          "after": 40,
+          "duplicated": 0,
+          "dropped": 115
+        },
+        "True": {
+          "before": 45,
+          "after": 40,
+          "duplicated": 0,
+          "dropped": 5
+        }
+      }
+    },
+    "p2_mixed_lanes_choice_balanced": {
+      "rows": 80,
+      "questions": "mixed_lanes",
+      "note": "noul chuyen choice nhan nghe nghia + can bang 40 mau/lop",
+      "labels": {
+        "khong_can_tach": 40,
+        "tach_rieng": 40
+      },
+      "balance": {
+        "khong_can_tach": {
+          "before": 155,
+          "after": 40,
+          "duplicated": 0,
+          "dropped": 115
+        },
+        "tach_rieng": {
+          "before": 45,
+          "after": 40,
+          "duplicated": 0,
+          "dropped": 5
+        }
+      }
+    }
+  },
+  "label_mapping_p1": {
+    "and": "requires_both",
+    "or": "requires_either"
+  },
+  "label_mapping_mixed_lanes": {
+    "True": "tach_rieng",
+    "False": "khong_can_tach"
+  }
+}

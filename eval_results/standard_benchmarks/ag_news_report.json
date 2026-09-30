@@ -1,0 +1,6666 @@
+{
+  "cases": [
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "business",
+        "confidence": 0.9956,
+        "probabilities": {
+          "business": 0.9994,
+          "sci_tech": 0.0002,
+          "sports": 0.0002,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9916,
+        "choice": "sci_tech",
+        "confidence": 0.963,
+        "probabilities": {
+          "business": 0.0078,
+          "sci_tech": 0.9916,
+          "sports": 0.0002,
+          "world": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9916,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9916,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.999,
+        "choice": "world",
+        "confidence": 0.9937,
+        "probabilities": {
+          "business": 0.0003,
+          "sci_tech": 0.0005,
+          "sports": 0.0002,
+          "world": 0.999
+        },
+        "type": "choice"
+      },
+      "confidence": 0.999,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6457,
+        "choice": "sci_tech",
+        "confidence": 0.5289,
+        "probabilities": {
+          "business": 0.354,
+          "sci_tech": 0.6457,
+          "sports": 0.0002,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6457,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6457,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9991,
+        "choice": "world",
+        "confidence": 0.9942,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.0004,
+          "sports": 0.0003,
+          "world": 0.9991
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9991,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9991,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "business",
+        "confidence": 0.9993,
+        "probabilities": {
+          "business": 0.9999,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9993,
+        "choice": "world",
+        "confidence": 0.9953,
+        "probabilities": {
+          "business": 0.0004,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9993
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9993,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9993,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9997,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "sports",
+        "confidence": 0.9995,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9999,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "business",
+        "confidence": 0.9983,
+        "probabilities": {
+          "business": 0.9998,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9976,
+        "choice": "sci_tech",
+        "confidence": 0.9865,
+        "probabilities": {
+          "business": 0.0004,
+          "sci_tech": 0.9976,
+          "sports": 0.0002,
+          "world": 0.0018
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9976,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9976,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9938,
+        "choice": "business",
+        "confidence": 0.9721,
+        "probabilities": {
+          "business": 0.9938,
+          "sci_tech": 0.006,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9938,
+      "correct": false,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9938,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "business",
+        "confidence": 0.9995,
+        "probabilities": {
+          "business": 0.9999,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9948,
+        "choice": "business",
+        "confidence": 0.9746,
+        "probabilities": {
+          "business": 0.9948,
+          "sci_tech": 0.0005,
+          "sports": 0.0004,
+          "world": 0.0043
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9948,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9948,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.999,
+        "choice": "sports",
+        "confidence": 0.9936,
+        "probabilities": {
+          "business": 0.0009,
+          "sci_tech": 0.0001,
+          "sports": 0.999,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.999,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9976,
+        "choice": "world",
+        "confidence": 0.987,
+        "probabilities": {
+          "business": 0.0003,
+          "sci_tech": 0.002,
+          "sports": 0.0001,
+          "world": 0.9976
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9976,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9976,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9997,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9982,
+        "choice": "world",
+        "confidence": 0.9894,
+        "probabilities": {
+          "business": 0.0009,
+          "sci_tech": 0.0006,
+          "sports": 0.0003,
+          "world": 0.9982
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9982,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9982,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "world",
+        "confidence": 1.0,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9939,
+        "choice": "world",
+        "confidence": 0.9691,
+        "probabilities": {
+          "business": 0.0012,
+          "sci_tech": 0.0037,
+          "sports": 0.0011,
+          "world": 0.9939
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9939,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9939,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "business",
+        "confidence": 0.9974,
+        "probabilities": {
+          "business": 0.9996,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "sports",
+        "confidence": 0.9975,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.0001,
+          "sports": 0.9997,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9951,
+        "choice": "world",
+        "confidence": 0.974,
+        "probabilities": {
+          "business": 0.0016,
+          "sci_tech": 0.0016,
+          "sports": 0.0016,
+          "world": 0.9951
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9951,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9951,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "sports",
+        "confidence": 0.9979,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0,
+          "sports": 0.9997,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9921,
+        "choice": "sci_tech",
+        "confidence": 0.9649,
+        "probabilities": {
+          "business": 0.0074,
+          "sci_tech": 0.9921,
+          "sports": 0.0002,
+          "world": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9921,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9921,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9967,
+        "choice": "sci_tech",
+        "confidence": 0.9829,
+        "probabilities": {
+          "business": 0.0029,
+          "sci_tech": 0.9967,
+          "sports": 0.0002,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9967,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9967,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9931,
+        "choice": "sci_tech",
+        "confidence": 0.9688,
+        "probabilities": {
+          "business": 0.0003,
+          "sci_tech": 0.9931,
+          "sports": 0.0002,
+          "world": 0.0065
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9931,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9931,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9982,
+        "choice": "business",
+        "confidence": 0.9901,
+        "probabilities": {
+          "business": 0.9982,
+          "sci_tech": 0.0017,
+          "sports": 0.0,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9982,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9982,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 1.0,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "world",
+        "confidence": 0.9985,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9998
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7941,
+        "choice": "sports",
+        "confidence": 0.6287,
+        "probabilities": {
+          "business": 0.0005,
+          "sci_tech": 0.0004,
+          "sports": 0.7941,
+          "world": 0.205
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7941,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7941,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "sports",
+        "confidence": 0.9983,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.9998,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9923,
+        "choice": "sci_tech",
+        "confidence": 0.964,
+        "probabilities": {
+          "business": 0.0064,
+          "sci_tech": 0.9923,
+          "sports": 0.0006,
+          "world": 0.0008
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9923,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9923,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9998,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "sports",
+        "confidence": 0.999,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9999,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "business",
+        "confidence": 0.996,
+        "probabilities": {
+          "business": 0.9994,
+          "sci_tech": 0.0002,
+          "sports": 0.0002,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "sports",
+        "confidence": 0.998,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.9997,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9375,
+        "choice": "sci_tech",
+        "confidence": 0.8286,
+        "probabilities": {
+          "business": 0.0619,
+          "sci_tech": 0.9375,
+          "sports": 0.0003,
+          "world": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9375,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9375,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "sports",
+        "confidence": 0.9982,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.9998,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "world",
+        "confidence": 0.9979,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9997
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9972,
+        "choice": "business",
+        "confidence": 0.9855,
+        "probabilities": {
+          "business": 0.9972,
+          "sci_tech": 0.0026,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9972,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9972,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9488,
+        "choice": "world",
+        "confidence": 0.8431,
+        "probabilities": {
+          "business": 0.0476,
+          "sci_tech": 0.0018,
+          "sports": 0.0019,
+          "world": 0.9488
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9488,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9488,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "world",
+        "confidence": 0.9957,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.0002,
+          "sports": 0.0002,
+          "world": 0.9994
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "business",
+        "confidence": 0.998,
+        "probabilities": {
+          "business": 0.9997,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9998,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9694,
+        "choice": "sci_tech",
+        "confidence": 0.8867,
+        "probabilities": {
+          "business": 0.0033,
+          "sci_tech": 0.9694,
+          "sports": 0.003,
+          "world": 0.0243
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9694,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9694,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9987,
+        "choice": "business",
+        "confidence": 0.9924,
+        "probabilities": {
+          "business": 0.9987,
+          "sci_tech": 0.0011,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9987,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9987,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "business",
+        "confidence": 0.998,
+        "probabilities": {
+          "business": 0.9997,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "sci_tech",
+        "confidence": 0.9971,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.9996,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": false,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9,
+        "choice": "sci_tech",
+        "confidence": 0.7602,
+        "probabilities": {
+          "business": 0.0006,
+          "sci_tech": 0.9,
+          "sports": 0.0006,
+          "world": 0.0989
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "world",
+        "confidence": 0.9985,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0,
+          "world": 0.9998
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "business",
+        "confidence": 0.9958,
+        "probabilities": {
+          "business": 0.9994,
+          "sci_tech": 0.0002,
+          "sports": 0.0002,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9046,
+        "choice": "business",
+        "confidence": 0.7324,
+        "probabilities": {
+          "business": 0.9046,
+          "sci_tech": 0.021,
+          "sports": 0.0011,
+          "world": 0.0732
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9046,
+      "correct": false,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9046,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "business",
+        "confidence": 0.9965,
+        "probabilities": {
+          "business": 0.9995,
+          "sci_tech": 0.0003,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9982,
+        "choice": "world",
+        "confidence": 0.9888,
+        "probabilities": {
+          "business": 0.0005,
+          "sci_tech": 0.0008,
+          "sports": 0.0005,
+          "world": 0.9982
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9982,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9982,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9999,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9837,
+        "choice": "sci_tech",
+        "confidence": 0.9352,
+        "probabilities": {
+          "business": 0.0144,
+          "sci_tech": 0.9837,
+          "sports": 0.0001,
+          "world": 0.0018
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9837,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9837,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9978,
+        "choice": "sci_tech",
+        "confidence": 0.988,
+        "probabilities": {
+          "business": 0.0018,
+          "sci_tech": 0.9978,
+          "sports": 0.0001,
+          "world": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9978,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9978,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "sports",
+        "confidence": 0.9977,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.9997,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "sports",
+        "confidence": 0.9987,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.9998,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9952,
+        "choice": "sci_tech",
+        "confidence": 0.9774,
+        "probabilities": {
+          "business": 0.0045,
+          "sci_tech": 0.9952,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9952,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9952,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4963,
+        "choice": "world",
+        "confidence": 0.3997,
+        "probabilities": {
+          "business": 0.4723,
+          "sci_tech": 0.0164,
+          "sports": 0.0149,
+          "world": 0.4963
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4963,
+      "correct": false,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4963,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "sci_tech",
+        "confidence": 0.9962,
+        "probabilities": {
+          "business": 0.0003,
+          "sci_tech": 0.9994,
+          "sports": 0.0001,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9999,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9927,
+        "choice": "world",
+        "confidence": 0.9653,
+        "probabilities": {
+          "business": 0.0052,
+          "sci_tech": 0.0018,
+          "sports": 0.0003,
+          "world": 0.9927
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9927,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9927,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "sports",
+        "confidence": 0.9995,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9999,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.946,
+        "choice": "sci_tech",
+        "confidence": 0.8469,
+        "probabilities": {
+          "business": 0.0537,
+          "sci_tech": 0.946,
+          "sports": 0.0001,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.946,
+      "correct": false,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.946,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8998,
+        "choice": "sci_tech",
+        "confidence": 0.7619,
+        "probabilities": {
+          "business": 0.0995,
+          "sci_tech": 0.8998,
+          "sports": 0.0004,
+          "world": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8998,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5413,
+        "choice": "world",
+        "confidence": 0.4578,
+        "probabilities": {
+          "business": 0.0134,
+          "sci_tech": 0.4452,
+          "sports": 0.0001,
+          "world": 0.5413
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5413,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5413,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9998,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9955,
+        "choice": "sci_tech",
+        "confidence": 0.978,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.9955,
+          "sports": 0.0002,
+          "world": 0.0041
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9955,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9955,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9905,
+        "choice": "world",
+        "confidence": 0.9586,
+        "probabilities": {
+          "business": 0.0005,
+          "sci_tech": 0.0086,
+          "sports": 0.0005,
+          "world": 0.9905
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9905,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9905,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "world",
+        "confidence": 0.9976,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9997
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9998,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9987,
+        "choice": "business",
+        "confidence": 0.992,
+        "probabilities": {
+          "business": 0.9987,
+          "sci_tech": 0.0005,
+          "sports": 0.0004,
+          "world": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9987,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9987,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9912,
+        "choice": "sci_tech",
+        "confidence": 0.9617,
+        "probabilities": {
+          "business": 0.0003,
+          "sci_tech": 0.9912,
+          "sports": 0.0003,
+          "world": 0.0083
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9912,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9912,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9943,
+        "choice": "sci_tech",
+        "confidence": 0.9735,
+        "probabilities": {
+          "business": 0.0054,
+          "sci_tech": 0.9943,
+          "sports": 0.0001,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9943,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9943,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "sports",
+        "confidence": 0.9996,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9999,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9996,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.985,
+        "choice": "world",
+        "confidence": 0.9391,
+        "probabilities": {
+          "business": 0.0009,
+          "sci_tech": 0.0133,
+          "sports": 0.0008,
+          "world": 0.985
+        },
+        "type": "choice"
+      },
+      "confidence": 0.985,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.985,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9947,
+        "choice": "world",
+        "confidence": 0.9729,
+        "probabilities": {
+          "business": 0.0029,
+          "sci_tech": 0.0021,
+          "sports": 0.0003,
+          "world": 0.9947
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9947,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9947,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "business",
+        "confidence": 0.9983,
+        "probabilities": {
+          "business": 0.9998,
+          "sci_tech": 0.0001,
+          "sports": 0.0,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9826,
+        "choice": "sci_tech",
+        "confidence": 0.9272,
+        "probabilities": {
+          "business": 0.0077,
+          "sci_tech": 0.9826,
+          "sports": 0.0003,
+          "world": 0.0094
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9826,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9826,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9769,
+        "choice": "sci_tech",
+        "confidence": 0.918,
+        "probabilities": {
+          "business": 0.0225,
+          "sci_tech": 0.9769,
+          "sports": 0.0004,
+          "world": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9769,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9769,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5827,
+        "choice": "business",
+        "confidence": 0.4826,
+        "probabilities": {
+          "business": 0.5827,
+          "sci_tech": 0.4108,
+          "sports": 0.0037,
+          "world": 0.0028
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5827,
+      "correct": false,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5827,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9991,
+        "choice": "sci_tech",
+        "confidence": 0.9942,
+        "probabilities": {
+          "business": 0.0006,
+          "sci_tech": 0.9991,
+          "sports": 0.0001,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9991,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9991,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6635,
+        "choice": "sci_tech",
+        "confidence": 0.5117,
+        "probabilities": {
+          "business": 0.3287,
+          "sci_tech": 0.6635,
+          "sports": 0.0002,
+          "world": 0.0076
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6635,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6635,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9879,
+        "choice": "world",
+        "confidence": 0.9486,
+        "probabilities": {
+          "business": 0.0102,
+          "sci_tech": 0.0015,
+          "sports": 0.0003,
+          "world": 0.9879
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9879,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9879,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9963,
+        "choice": "business",
+        "confidence": 0.9816,
+        "probabilities": {
+          "business": 0.9963,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0036
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9963,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9963,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "sports",
+        "confidence": 0.996,
+        "probabilities": {
+          "business": 0.0003,
+          "sci_tech": 0.0001,
+          "sports": 0.9994,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "world",
+        "confidence": 0.9959,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.0002,
+          "sports": 0.0002,
+          "world": 0.9994
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "world",
+        "confidence": 0.997,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9996
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "sports",
+        "confidence": 0.9987,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9998,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9946,
+        "choice": "business",
+        "confidence": 0.9742,
+        "probabilities": {
+          "business": 0.9946,
+          "sci_tech": 0.0048,
+          "sports": 0.0002,
+          "world": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9946,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9946,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5813,
+        "choice": "world",
+        "confidence": 0.2489,
+        "probabilities": {
+          "business": 0.1678,
+          "sci_tech": 0.0242,
+          "sports": 0.2267,
+          "world": 0.5813
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5813,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5813,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "world",
+        "confidence": 0.9996,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 0.9999
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "business",
+        "confidence": 0.9988,
+        "probabilities": {
+          "business": 0.9999,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9783,
+        "choice": "business",
+        "confidence": 0.9222,
+        "probabilities": {
+          "business": 0.9783,
+          "sci_tech": 0.0004,
+          "sports": 0.0002,
+          "world": 0.0211
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9783,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9783,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9986,
+        "choice": "world",
+        "confidence": 0.9915,
+        "probabilities": {
+          "business": 0.0003,
+          "sci_tech": 0.0008,
+          "sports": 0.0003,
+          "world": 0.9986
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9986,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9986,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.935,
+        "choice": "world",
+        "confidence": 0.814,
+        "probabilities": {
+          "business": 0.0023,
+          "sci_tech": 0.061,
+          "sports": 0.0016,
+          "world": 0.935
+        },
+        "type": "choice"
+      },
+      "confidence": 0.935,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.935,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9984,
+        "choice": "business",
+        "confidence": 0.9906,
+        "probabilities": {
+          "business": 0.9984,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0014
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9984,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9984,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9985,
+        "choice": "sci_tech",
+        "confidence": 0.9913,
+        "probabilities": {
+          "business": 0.0012,
+          "sci_tech": 0.9985,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9985,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9985,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.995,
+        "choice": "world",
+        "confidence": 0.9742,
+        "probabilities": {
+          "business": 0.0015,
+          "sci_tech": 0.0031,
+          "sports": 0.0004,
+          "world": 0.995
+        },
+        "type": "choice"
+      },
+      "confidence": 0.995,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "world",
+        "confidence": 0.9976,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9997
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9823,
+        "choice": "sci_tech",
+        "confidence": 0.9259,
+        "probabilities": {
+          "business": 0.0068,
+          "sci_tech": 0.9823,
+          "sports": 0.0005,
+          "world": 0.0104
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9823,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9823,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "business",
+        "confidence": 0.9982,
+        "probabilities": {
+          "business": 0.9998,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "business",
+        "confidence": 0.9995,
+        "probabilities": {
+          "business": 0.9999,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "sports",
+        "confidence": 0.9994,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9999,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9969,
+        "choice": "world",
+        "confidence": 0.9828,
+        "probabilities": {
+          "business": 0.0005,
+          "sci_tech": 0.002,
+          "sports": 0.0006,
+          "world": 0.9969
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9969,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9969,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9982,
+        "choice": "sci_tech",
+        "confidence": 0.9896,
+        "probabilities": {
+          "business": 0.0003,
+          "sci_tech": 0.9982,
+          "sports": 0.0002,
+          "world": 0.0014
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9982,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9982,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "business",
+        "confidence": 0.9995,
+        "probabilities": {
+          "business": 0.9999,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "business",
+        "confidence": 0.9978,
+        "probabilities": {
+          "business": 0.9997,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "business",
+        "confidence": 0.9984,
+        "probabilities": {
+          "business": 0.9998,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "sports",
+        "confidence": 0.9971,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.9996,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9987,
+        "choice": "business",
+        "confidence": 0.9925,
+        "probabilities": {
+          "business": 0.9987,
+          "sci_tech": 0.0001,
+          "sports": 0.0,
+          "world": 0.0012
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9987,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9987,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "sports",
+        "confidence": 0.9988,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9999,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9858,
+        "choice": "sci_tech",
+        "confidence": 0.9362,
+        "probabilities": {
+          "business": 0.0056,
+          "sci_tech": 0.9858,
+          "sports": 0.0017,
+          "world": 0.007
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9858,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9858,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "business",
+        "confidence": 0.9984,
+        "probabilities": {
+          "business": 0.9998,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.999,
+        "choice": "business",
+        "confidence": 0.9937,
+        "probabilities": {
+          "business": 0.999,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0009
+        },
+        "type": "choice"
+      },
+      "confidence": 0.999,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9999,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "sports",
+        "confidence": 0.9994,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9999,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9998,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "sports",
+        "confidence": 0.9986,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.9998,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9968,
+        "choice": "sci_tech",
+        "confidence": 0.9834,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.9968,
+          "sports": 0.0002,
+          "world": 0.0028
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9968,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9968,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7356,
+        "choice": "world",
+        "confidence": 0.5247,
+        "probabilities": {
+          "business": 0.245,
+          "sci_tech": 0.0134,
+          "sports": 0.006,
+          "world": 0.7356
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7356,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7356,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9913,
+        "choice": "business",
+        "confidence": 0.9624,
+        "probabilities": {
+          "business": 0.9913,
+          "sci_tech": 0.0081,
+          "sports": 0.0003,
+          "world": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9913,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9913,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "business",
+        "confidence": 0.9985,
+        "probabilities": {
+          "business": 0.9998,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9942,
+        "choice": "business",
+        "confidence": 0.9725,
+        "probabilities": {
+          "business": 0.9942,
+          "sci_tech": 0.0004,
+          "sports": 0.0002,
+          "world": 0.0053
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9942,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9942,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9693,
+        "choice": "sci_tech",
+        "confidence": 0.8985,
+        "probabilities": {
+          "business": 0.03,
+          "sci_tech": 0.9693,
+          "sports": 0.0003,
+          "world": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9693,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9693,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.671,
+        "choice": "sci_tech",
+        "confidence": 0.5288,
+        "probabilities": {
+          "business": 0.0021,
+          "sci_tech": 0.671,
+          "sports": 0.001,
+          "world": 0.3259
+        },
+        "type": "choice"
+      },
+      "confidence": 0.671,
+      "correct": false,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.671,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "world",
+        "confidence": 0.9974,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9996
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "sports",
+        "confidence": 0.9986,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.9998,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9984,
+        "choice": "sci_tech",
+        "confidence": 0.99,
+        "probabilities": {
+          "business": 0.0009,
+          "sci_tech": 0.9984,
+          "sports": 0.0003,
+          "world": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9984,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9984,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "world",
+        "confidence": 0.9966,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.0002,
+          "sports": 0.0001,
+          "world": 0.9995
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "world",
+        "confidence": 0.9985,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9998
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "world",
+        "confidence": 0.998,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9997
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9925,
+        "choice": "sci_tech",
+        "confidence": 0.9656,
+        "probabilities": {
+          "business": 0.0064,
+          "sci_tech": 0.9925,
+          "sports": 0.0005,
+          "world": 0.0005
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9925,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9925,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "business",
+        "confidence": 0.9975,
+        "probabilities": {
+          "business": 0.9997,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "business",
+        "confidence": 0.9989,
+        "probabilities": {
+          "business": 0.9999,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7346,
+        "choice": "world",
+        "confidence": 0.4292,
+        "probabilities": {
+          "business": 0.1864,
+          "sci_tech": 0.0513,
+          "sports": 0.0277,
+          "world": 0.7346
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7346,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7346,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9737,
+        "choice": "business",
+        "confidence": 0.9059,
+        "probabilities": {
+          "business": 0.9737,
+          "sci_tech": 0.0013,
+          "sports": 0.0008,
+          "world": 0.0241
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9737,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9737,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9998,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.997,
+        "choice": "sports",
+        "confidence": 0.9846,
+        "probabilities": {
+          "business": 0.0028,
+          "sci_tech": 0.0001,
+          "sports": 0.997,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.997,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8329,
+        "choice": "world",
+        "confidence": 0.6425,
+        "probabilities": {
+          "business": 0.0099,
+          "sci_tech": 0.156,
+          "sports": 0.0011,
+          "world": 0.8329
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8329,
+      "correct": false,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8329,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "business",
+        "confidence": 0.9989,
+        "probabilities": {
+          "business": 0.9999,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "world",
+        "confidence": 0.9971,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9996
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.995,
+        "choice": "sci_tech",
+        "confidence": 0.9747,
+        "probabilities": {
+          "business": 0.0037,
+          "sci_tech": 0.995,
+          "sports": 0.0005,
+          "world": 0.0008
+        },
+        "type": "choice"
+      },
+      "confidence": 0.995,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.993,
+        "choice": "sports",
+        "confidence": 0.9656,
+        "probabilities": {
+          "business": 0.0034,
+          "sci_tech": 0.0004,
+          "sports": 0.993,
+          "world": 0.0032
+        },
+        "type": "choice"
+      },
+      "confidence": 0.993,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.993,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "sports",
+        "confidence": 0.9979,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.9997,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "sports",
+        "confidence": 0.9983,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.0,
+          "sports": 0.9998,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9586,
+        "choice": "sci_tech",
+        "confidence": 0.8739,
+        "probabilities": {
+          "business": 0.0411,
+          "sci_tech": 0.9586,
+          "sports": 0.0001,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9586,
+      "correct": false,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9586,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9843,
+        "choice": "sci_tech",
+        "confidence": 0.9396,
+        "probabilities": {
+          "business": 0.0151,
+          "sci_tech": 0.9843,
+          "sports": 0.0002,
+          "world": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9843,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9843,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "sports",
+        "confidence": 0.9993,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9999,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": false,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "business",
+        "confidence": 0.9962,
+        "probabilities": {
+          "business": 0.9994,
+          "sci_tech": 0.0004,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "business",
+        "confidence": 0.9979,
+        "probabilities": {
+          "business": 0.9997,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "business",
+        "confidence": 0.997,
+        "probabilities": {
+          "business": 0.9996,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9993,
+        "choice": "sports",
+        "confidence": 0.9952,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.0002,
+          "sports": 0.9993,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9993,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9993,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9997,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9986,
+        "choice": "world",
+        "confidence": 0.9915,
+        "probabilities": {
+          "business": 0.0003,
+          "sci_tech": 0.0008,
+          "sports": 0.0003,
+          "world": 0.9986
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9986,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9986,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "world",
+        "confidence": 0.9966,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0003,
+          "sports": 0.0001,
+          "world": 0.9995
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9981,
+        "choice": "world",
+        "confidence": 0.9888,
+        "probabilities": {
+          "business": 0.0004,
+          "sci_tech": 0.001,
+          "sports": 0.0004,
+          "world": 0.9981
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9981,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9981,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9977,
+        "choice": "sci_tech",
+        "confidence": 0.9866,
+        "probabilities": {
+          "business": 0.0008,
+          "sci_tech": 0.9977,
+          "sports": 0.0007,
+          "world": 0.0008
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9977,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9977,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9192,
+        "choice": "sci_tech",
+        "confidence": 0.7699,
+        "probabilities": {
+          "business": 0.0036,
+          "sci_tech": 0.9192,
+          "sports": 0.0069,
+          "world": 0.0703
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9192,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9192,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9996,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9856,
+        "choice": "sci_tech",
+        "confidence": 0.9378,
+        "probabilities": {
+          "business": 0.0056,
+          "sci_tech": 0.9856,
+          "sports": 0.0003,
+          "world": 0.0085
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9856,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9856,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.996,
+        "choice": "world",
+        "confidence": 0.9798,
+        "probabilities": {
+          "business": 0.0035,
+          "sci_tech": 0.0003,
+          "sports": 0.0001,
+          "world": 0.996
+        },
+        "type": "choice"
+      },
+      "confidence": 0.996,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9947,
+        "choice": "business",
+        "confidence": 0.9755,
+        "probabilities": {
+          "business": 0.9947,
+          "sci_tech": 0.0051,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9947,
+      "correct": false,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9947,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9974,
+        "choice": "sci_tech",
+        "confidence": 0.9853,
+        "probabilities": {
+          "business": 0.0006,
+          "sci_tech": 0.9974,
+          "sports": 0.0006,
+          "world": 0.0014
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9974,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9974,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9962,
+        "choice": "sci_tech",
+        "confidence": 0.9799,
+        "probabilities": {
+          "business": 0.0026,
+          "sci_tech": 0.9962,
+          "sports": 0.0005,
+          "world": 0.0006
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9962,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9962,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "world",
+        "confidence": 0.9966,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.0002,
+          "sports": 0.0001,
+          "world": 0.9995
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "world",
+        "confidence": 0.997,
+        "probabilities": {
+          "business": 0.0001,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.9996
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9798,
+        "choice": "world",
+        "confidence": 0.9163,
+        "probabilities": {
+          "business": 0.0103,
+          "sci_tech": 0.0089,
+          "sports": 0.001,
+          "world": 0.9798
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9798,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9798,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8475,
+        "choice": "business",
+        "confidence": 0.69,
+        "probabilities": {
+          "business": 0.8475,
+          "sci_tech": 0.1522,
+          "sports": 0.0002,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8475,
+      "correct": false,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8475,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "sports",
+        "confidence": 0.9995,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9999,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8395,
+        "choice": "sci_tech",
+        "confidence": 0.6115,
+        "probabilities": {
+          "business": 0.1181,
+          "sci_tech": 0.8395,
+          "sports": 0.0012,
+          "world": 0.0412
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8395,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8395,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9959,
+        "choice": "sci_tech",
+        "confidence": 0.9802,
+        "probabilities": {
+          "business": 0.0039,
+          "sci_tech": 0.9959,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9959,
+      "correct": false,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9959,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "business",
+        "confidence": 0.9988,
+        "probabilities": {
+          "business": 0.9998,
+          "sci_tech": 0.0001,
+          "sports": 0.0,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "sports",
+        "confidence": 0.9957,
+        "probabilities": {
+          "business": 0.0002,
+          "sci_tech": 0.0002,
+          "sports": 0.9994,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9761,
+        "choice": "business",
+        "confidence": 0.905,
+        "probabilities": {
+          "business": 0.9761,
+          "sci_tech": 0.01,
+          "sports": 0.0006,
+          "world": 0.0134
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9761,
+      "correct": false,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9761,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "business",
+        "confidence": 0.9991,
+        "probabilities": {
+          "business": 0.9999,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8921,
+        "choice": "sci_tech",
+        "confidence": 0.7505,
+        "probabilities": {
+          "business": 0.1073,
+          "sci_tech": 0.8921,
+          "sports": 0.0002,
+          "world": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8921,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8921,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9882,
+        "choice": "sci_tech",
+        "confidence": 0.9509,
+        "probabilities": {
+          "business": 0.0108,
+          "sci_tech": 0.9882,
+          "sports": 0.0004,
+          "world": 0.0006
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9882,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9882,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.991,
+        "choice": "world",
+        "confidence": 0.956,
+        "probabilities": {
+          "business": 0.0034,
+          "sci_tech": 0.0033,
+          "sports": 0.0023,
+          "world": 0.991
+        },
+        "type": "choice"
+      },
+      "confidence": 0.991,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.991,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9601,
+        "choice": "sci_tech",
+        "confidence": 0.8664,
+        "probabilities": {
+          "business": 0.0023,
+          "sci_tech": 0.9601,
+          "sports": 0.0024,
+          "world": 0.0352
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9601,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9601,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9998,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9999,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9996,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9996,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9997,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9465,
+        "choice": "business",
+        "confidence": 0.8477,
+        "probabilities": {
+          "business": 0.9465,
+          "sci_tech": 0.0532,
+          "sports": 0.0002,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9465,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9465,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9915,
+        "choice": "sci_tech",
+        "confidence": 0.9609,
+        "probabilities": {
+          "business": 0.0007,
+          "sci_tech": 0.9915,
+          "sports": 0.0008,
+          "world": 0.007
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9915,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9915,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9497,
+        "choice": "sci_tech",
+        "confidence": 0.8532,
+        "probabilities": {
+          "business": 0.0495,
+          "sci_tech": 0.9497,
+          "sports": 0.0003,
+          "world": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9497,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9497,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "business",
+        "confidence": 0.9971,
+        "probabilities": {
+          "business": 0.9996,
+          "sci_tech": 0.0002,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6568,
+        "choice": "business",
+        "confidence": 0.3332,
+        "probabilities": {
+          "business": 0.6568,
+          "sci_tech": 0.2034,
+          "sports": 0.0157,
+          "world": 0.1241
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6568,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6568,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9696,
+        "choice": "sci_tech",
+        "confidence": 0.9002,
+        "probabilities": {
+          "business": 0.0301,
+          "sci_tech": 0.9696,
+          "sports": 0.0001,
+          "world": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9696,
+      "correct": true,
+      "expected": "sci_tech",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9696,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9999,
+        "choice": "sports",
+        "confidence": 0.9994,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.9999,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9999,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9999,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sports",
+        "confidence": 0.9997,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 1.0,
+          "world": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "sports",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "business",
+        "confidence": 0.9972,
+        "probabilities": {
+          "business": 0.9996,
+          "sci_tech": 0.0001,
+          "sports": 0.0001,
+          "world": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "business",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.914,
+        "choice": "world",
+        "confidence": 0.7845,
+        "probabilities": {
+          "business": 0.0851,
+          "sci_tech": 0.0006,
+          "sports": 0.0003,
+          "world": 0.914
+        },
+        "type": "choice"
+      },
+      "confidence": 0.914,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.914,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "world",
+        "confidence": 0.9998,
+        "probabilities": {
+          "business": 0.0,
+          "sci_tech": 0.0,
+          "sports": 0.0,
+          "world": 1.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "world",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "topic",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "ag_news"
+      ]
+    }
+  ],
+  "config": {
+    "dataset": "/out/standard_benchmarks/ag_news.jsonl",
+    "device": "cpu",
+    "model": "multilingual",
+    "revisions": {
+      "multilingual": "55cf4c4ebb4ebe31b2550e8bdf3bd21b99753851"
+    },
+    "timing": {
+      "batch_form": "states",
+      "batch_size": 8,
+      "chunks": 25,
+      "cost_metric": "per decision: that call divided by its own chunk size",
+      "latency_metric": "per request: the wall time of the call that returned it, unsplit",
+      "max_chunk": 8,
+      "rows_alone": 0,
+      "rows_grouped": 200
+    }
+  },
+  "overall": {
+    "choice_accuracy": 0.93,
+    "cost_per_decision_p50_ms": 283.83648325,
+    "cost_per_decision_p95_ms": 658.6400215000001,
+    "ece": 0.060825499999999935,
+    "latency_p50_ms": 2270.691866,
+    "latency_p95_ms": 5269.120172000001,
+    "mean_confidence": 0.9701815
+  },
+  "slices": {
+    "language": {
+      "en": {
+        "choice_accuracy": 0.93,
+        "ece": 0.060825499999999935,
+        "mean_confidence": 0.9701815
+      }
+    },
+    "model": {
+      "multilingual": {
+        "choice_accuracy": 0.93,
+        "ece": 0.060825499999999935,
+        "mean_confidence": 0.9701815
+      }
+    },
+    "qid": {
+      "topic": {
+        "choice_accuracy": 0.93,
+        "ece": 0.060825499999999935,
+        "mean_confidence": 0.9701815
+      }
+    },
+    "tag": {
+      "ag_news": {
+        "choice_accuracy": 0.93,
+        "ece": 0.060825499999999935,
+        "mean_confidence": 0.9701815
+      },
+      "benchmark": {
+        "choice_accuracy": 0.93,
+        "ece": 0.060825499999999935,
+        "mean_confidence": 0.9701815
+      }
+    }
+  }
+}

@@ -1,0 +1,7066 @@
+{
+  "cases": [
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6451,
+        "choice": "sadness",
+        "confidence": 0.4437,
+        "probabilities": {
+          "anger": 0.0078,
+          "fear": 0.0066,
+          "joy": 0.2255,
+          "love": 0.0913,
+          "sadness": 0.6451,
+          "surprise": 0.0237
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6451,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6451,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9909,
+        "choice": "sadness",
+        "confidence": 0.9645,
+        "probabilities": {
+          "anger": 0.0011,
+          "fear": 0.0037,
+          "joy": 0.0005,
+          "love": 0.0004,
+          "sadness": 0.9909,
+          "surprise": 0.0034
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9909,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9909,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9848,
+        "choice": "sadness",
+        "confidence": 0.9529,
+        "probabilities": {
+          "anger": 0.0139,
+          "fear": 0.0001,
+          "joy": 0.0002,
+          "love": 0.0001,
+          "sadness": 0.9848,
+          "surprise": 0.0008
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9848,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9848,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9981,
+        "choice": "sadness",
+        "confidence": 0.9907,
+        "probabilities": {
+          "anger": 0.0008,
+          "fear": 0.0003,
+          "joy": 0.0003,
+          "love": 0.0003,
+          "sadness": 0.9981,
+          "surprise": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9981,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9981,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.977,
+        "choice": "sadness",
+        "confidence": 0.9197,
+        "probabilities": {
+          "anger": 0.0045,
+          "fear": 0.0034,
+          "joy": 0.0059,
+          "love": 0.0014,
+          "sadness": 0.977,
+          "surprise": 0.0079
+        },
+        "type": "choice"
+      },
+      "confidence": 0.977,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.977,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9972,
+        "choice": "joy",
+        "confidence": 0.9875,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.9972,
+          "love": 0.0009,
+          "sadness": 0.0003,
+          "surprise": 0.0014
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9972,
+      "correct": false,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9972,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9981,
+        "choice": "sadness",
+        "confidence": 0.9914,
+        "probabilities": {
+          "anger": 0.0014,
+          "fear": 0.0001,
+          "joy": 0.0001,
+          "love": 0.0001,
+          "sadness": 0.9981,
+          "surprise": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9981,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9981,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8308,
+        "choice": "sadness",
+        "confidence": 0.665,
+        "probabilities": {
+          "anger": 0.0059,
+          "fear": 0.0061,
+          "joy": 0.0285,
+          "love": 0.0044,
+          "sadness": 0.8308,
+          "surprise": 0.1242
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8308,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8308,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.582,
+        "choice": "joy",
+        "confidence": 0.3176,
+        "probabilities": {
+          "anger": 0.0352,
+          "fear": 0.0287,
+          "joy": 0.582,
+          "love": 0.0371,
+          "sadness": 0.1055,
+          "surprise": 0.2115
+        },
+        "type": "choice"
+      },
+      "confidence": 0.582,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.582,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6087,
+        "choice": "joy",
+        "confidence": 0.5963,
+        "probabilities": {
+          "anger": 0.0016,
+          "fear": 0.001,
+          "joy": 0.6087,
+          "love": 0.3823,
+          "sadness": 0.002,
+          "surprise": 0.0045
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6087,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6087,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3883,
+        "choice": "sadness",
+        "confidence": 0.2476,
+        "probabilities": {
+          "anger": 0.0119,
+          "fear": 0.0167,
+          "joy": 0.2914,
+          "love": 0.0548,
+          "sadness": 0.3883,
+          "surprise": 0.2368
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3883,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.3883,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.997,
+        "choice": "anger",
+        "confidence": 0.9874,
+        "probabilities": {
+          "anger": 0.997,
+          "fear": 0.0001,
+          "joy": 0.0001,
+          "love": 0.0001,
+          "sadness": 0.0023,
+          "surprise": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.997,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6584,
+        "choice": "joy",
+        "confidence": 0.507,
+        "probabilities": {
+          "anger": 0.0025,
+          "fear": 0.0017,
+          "joy": 0.6584,
+          "love": 0.2527,
+          "sadness": 0.0076,
+          "surprise": 0.0772
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6584,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6584,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.696,
+        "choice": "love",
+        "confidence": 0.6523,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.3028,
+          "love": 0.696,
+          "sadness": 0.0001,
+          "surprise": 0.001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.696,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.696,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9114,
+        "choice": "sadness",
+        "confidence": 0.7722,
+        "probabilities": {
+          "anger": 0.0522,
+          "fear": 0.0061,
+          "joy": 0.011,
+          "love": 0.0067,
+          "sadness": 0.9114,
+          "surprise": 0.0126
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9114,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9114,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9562,
+        "choice": "joy",
+        "confidence": 0.8832,
+        "probabilities": {
+          "anger": 0.0007,
+          "fear": 0.0007,
+          "joy": 0.9562,
+          "love": 0.0056,
+          "sadness": 0.0013,
+          "surprise": 0.0355
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9562,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9562,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.959,
+        "choice": "sadness",
+        "confidence": 0.875,
+        "probabilities": {
+          "anger": 0.0178,
+          "fear": 0.0023,
+          "joy": 0.0051,
+          "love": 0.002,
+          "sadness": 0.959,
+          "surprise": 0.0138
+        },
+        "type": "choice"
+      },
+      "confidence": 0.959,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.959,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9698,
+        "choice": "joy",
+        "confidence": 0.9105,
+        "probabilities": {
+          "anger": 0.0005,
+          "fear": 0.0004,
+          "joy": 0.9698,
+          "love": 0.021,
+          "sadness": 0.0009,
+          "surprise": 0.0074
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9698,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9698,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5085,
+        "choice": "anger",
+        "confidence": 0.5986,
+        "probabilities": {
+          "anger": 0.5085,
+          "fear": 0.0007,
+          "joy": 0.0011,
+          "love": 0.0008,
+          "sadness": 0.4879,
+          "surprise": 0.001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5085,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5085,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3961,
+        "choice": "fear",
+        "confidence": 0.3305,
+        "probabilities": {
+          "anger": 0.0135,
+          "fear": 0.3961,
+          "joy": 0.0037,
+          "love": 0.3182,
+          "sadness": 0.2604,
+          "surprise": 0.0082
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3961,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.3961,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "sadness",
+        "confidence": 0.9973,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.0001,
+          "love": 0.0001,
+          "sadness": 0.9995,
+          "surprise": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6579,
+        "choice": "sadness",
+        "confidence": 0.365,
+        "probabilities": {
+          "anger": 0.0473,
+          "fear": 0.0158,
+          "joy": 0.0919,
+          "love": 0.0629,
+          "sadness": 0.6579,
+          "surprise": 0.1241
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6579,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6579,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6264,
+        "choice": "sadness",
+        "confidence": 0.4583,
+        "probabilities": {
+          "anger": 0.2593,
+          "fear": 0.0201,
+          "joy": 0.0032,
+          "love": 0.0028,
+          "sadness": 0.6264,
+          "surprise": 0.0881
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6264,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6264,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9478,
+        "choice": "anger",
+        "confidence": 0.8707,
+        "probabilities": {
+          "anger": 0.9478,
+          "fear": 0.0006,
+          "joy": 0.001,
+          "love": 0.0005,
+          "sadness": 0.0454,
+          "surprise": 0.0048
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9478,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9478,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9868,
+        "choice": "sadness",
+        "confidence": 0.95,
+        "probabilities": {
+          "anger": 0.0055,
+          "fear": 0.0015,
+          "joy": 0.0021,
+          "love": 0.0013,
+          "sadness": 0.9868,
+          "surprise": 0.0028
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9868,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9868,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9268,
+        "choice": "sadness",
+        "confidence": 0.8035,
+        "probabilities": {
+          "anger": 0.0049,
+          "fear": 0.0014,
+          "joy": 0.0377,
+          "love": 0.0178,
+          "sadness": 0.9268,
+          "surprise": 0.0114
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9268,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9268,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5262,
+        "choice": "sadness",
+        "confidence": 0.3605,
+        "probabilities": {
+          "anger": 0.0062,
+          "fear": 0.004,
+          "joy": 0.277,
+          "love": 0.032,
+          "sadness": 0.5262,
+          "surprise": 0.1545
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5262,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5262,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.2763,
+        "choice": "joy",
+        "confidence": 0.0806,
+        "probabilities": {
+          "anger": 0.1282,
+          "fear": 0.1509,
+          "joy": 0.2763,
+          "love": 0.0349,
+          "sadness": 0.2737,
+          "surprise": 0.136
+        },
+        "type": "choice"
+      },
+      "confidence": 0.2763,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.2763,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9649,
+        "choice": "sadness",
+        "confidence": 0.9004,
+        "probabilities": {
+          "anger": 0.0281,
+          "fear": 0.0019,
+          "joy": 0.0011,
+          "love": 0.0026,
+          "sadness": 0.9649,
+          "surprise": 0.0013
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9649,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9649,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9627,
+        "choice": "sadness",
+        "confidence": 0.8846,
+        "probabilities": {
+          "anger": 0.0045,
+          "fear": 0.0015,
+          "joy": 0.0081,
+          "love": 0.0197,
+          "sadness": 0.9627,
+          "surprise": 0.0035
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9627,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9627,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9961,
+        "choice": "sadness",
+        "confidence": 0.984,
+        "probabilities": {
+          "anger": 0.003,
+          "fear": 0.0002,
+          "joy": 0.0002,
+          "love": 0.0002,
+          "sadness": 0.9961,
+          "surprise": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9961,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9961,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5406,
+        "choice": "surprise",
+        "confidence": 0.4446,
+        "probabilities": {
+          "anger": 0.0067,
+          "fear": 0.009,
+          "joy": 0.0158,
+          "love": 0.0518,
+          "sadness": 0.3761,
+          "surprise": 0.5406
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5406,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5406,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8965,
+        "choice": "sadness",
+        "confidence": 0.7316,
+        "probabilities": {
+          "anger": 0.024,
+          "fear": 0.0051,
+          "joy": 0.0336,
+          "love": 0.0093,
+          "sadness": 0.8965,
+          "surprise": 0.0316
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8965,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8965,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.414,
+        "choice": "surprise",
+        "confidence": 0.228,
+        "probabilities": {
+          "anger": 0.0751,
+          "fear": 0.012,
+          "joy": 0.3281,
+          "love": 0.1208,
+          "sadness": 0.0499,
+          "surprise": 0.414
+        },
+        "type": "choice"
+      },
+      "confidence": 0.414,
+      "correct": true,
+      "expected": "surprise",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.414,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9661,
+        "choice": "sadness",
+        "confidence": 0.9115,
+        "probabilities": {
+          "anger": 0.0318,
+          "fear": 0.0005,
+          "joy": 0.0005,
+          "love": 0.0005,
+          "sadness": 0.9661,
+          "surprise": 0.0006
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9661,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9661,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.893,
+        "choice": "joy",
+        "confidence": 0.8046,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.893,
+          "love": 0.0012,
+          "sadness": 0.0002,
+          "surprise": 0.1054
+        },
+        "type": "choice"
+      },
+      "confidence": 0.893,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.893,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "love",
+        "confidence": 0.9985,
+        "probabilities": {
+          "anger": 0.0,
+          "fear": 0.0,
+          "joy": 0.0,
+          "love": 0.9997,
+          "sadness": 0.0,
+          "surprise": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9664,
+        "choice": "joy",
+        "confidence": 0.8981,
+        "probabilities": {
+          "anger": 0.0017,
+          "fear": 0.0019,
+          "joy": 0.9664,
+          "love": 0.0008,
+          "sadness": 0.009,
+          "surprise": 0.0202
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9664,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9664,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9983,
+        "choice": "sadness",
+        "confidence": 0.9915,
+        "probabilities": {
+          "anger": 0.0004,
+          "fear": 0.0006,
+          "joy": 0.0002,
+          "love": 0.0002,
+          "sadness": 0.9983,
+          "surprise": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9983,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9983,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4882,
+        "choice": "sadness",
+        "confidence": 0.287,
+        "probabilities": {
+          "anger": 0.0773,
+          "fear": 0.2689,
+          "joy": 0.0113,
+          "love": 0.0101,
+          "sadness": 0.4882,
+          "surprise": 0.1442
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4882,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4882,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9096,
+        "choice": "love",
+        "confidence": 0.7745,
+        "probabilities": {
+          "anger": 0.0014,
+          "fear": 0.0009,
+          "joy": 0.0266,
+          "love": 0.9096,
+          "sadness": 0.015,
+          "surprise": 0.0464
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9096,
+      "correct": true,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9096,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4701,
+        "choice": "surprise",
+        "confidence": 0.4173,
+        "probabilities": {
+          "anger": 0.0155,
+          "fear": 0.009,
+          "joy": 0.013,
+          "love": 0.0572,
+          "sadness": 0.4352,
+          "surprise": 0.4701
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4701,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4701,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "sadness",
+        "confidence": 0.9974,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.0001,
+          "love": 0.0001,
+          "sadness": 0.9995,
+          "surprise": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9849,
+        "choice": "sadness",
+        "confidence": 0.9448,
+        "probabilities": {
+          "anger": 0.0048,
+          "fear": 0.006,
+          "joy": 0.0022,
+          "love": 0.0007,
+          "sadness": 0.9849,
+          "surprise": 0.0013
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9849,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9849,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8312,
+        "choice": "love",
+        "confidence": 0.6397,
+        "probabilities": {
+          "anger": 0.0041,
+          "fear": 0.0021,
+          "joy": 0.0358,
+          "love": 0.8312,
+          "sadness": 0.0909,
+          "surprise": 0.0359
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8312,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8312,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9083,
+        "choice": "sadness",
+        "confidence": 0.7842,
+        "probabilities": {
+          "anger": 0.022,
+          "fear": 0.0628,
+          "joy": 0.0017,
+          "love": 0.0016,
+          "sadness": 0.9083,
+          "surprise": 0.0037
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9083,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9083,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9489,
+        "choice": "anger",
+        "confidence": 0.8513,
+        "probabilities": {
+          "anger": 0.9489,
+          "fear": 0.0027,
+          "joy": 0.0028,
+          "love": 0.0076,
+          "sadness": 0.0269,
+          "surprise": 0.0112
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9489,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9489,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9847,
+        "choice": "surprise",
+        "confidence": 0.9508,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.0127,
+          "love": 0.0004,
+          "sadness": 0.0019,
+          "surprise": 0.9847
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9847,
+      "correct": true,
+      "expected": "surprise",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9847,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8396,
+        "choice": "sadness",
+        "confidence": 0.6527,
+        "probabilities": {
+          "anger": 0.0559,
+          "fear": 0.0203,
+          "joy": 0.0039,
+          "love": 0.0025,
+          "sadness": 0.8396,
+          "surprise": 0.078
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8396,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8396,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5393,
+        "choice": "surprise",
+        "confidence": 0.4094,
+        "probabilities": {
+          "anger": 0.0289,
+          "fear": 0.0091,
+          "joy": 0.0374,
+          "love": 0.024,
+          "sadness": 0.3614,
+          "surprise": 0.5393
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5393,
+      "correct": false,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5393,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9992,
+        "choice": "joy",
+        "confidence": 0.9959,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.9992,
+          "love": 0.0005,
+          "sadness": 0.0001,
+          "surprise": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9992,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9992,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7994,
+        "choice": "sadness",
+        "confidence": 0.6531,
+        "probabilities": {
+          "anger": 0.1716,
+          "fear": 0.0065,
+          "joy": 0.0054,
+          "love": 0.0043,
+          "sadness": 0.7994,
+          "surprise": 0.0128
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7994,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.537,
+        "choice": "fear",
+        "confidence": 0.4864,
+        "probabilities": {
+          "anger": 0.0223,
+          "fear": 0.537,
+          "joy": 0.0041,
+          "love": 0.0041,
+          "sadness": 0.4081,
+          "surprise": 0.0244
+        },
+        "type": "choice"
+      },
+      "confidence": 0.537,
+      "correct": true,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.537,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5996,
+        "choice": "surprise",
+        "confidence": 0.3219,
+        "probabilities": {
+          "anger": 0.0747,
+          "fear": 0.021,
+          "joy": 0.1619,
+          "love": 0.0215,
+          "sadness": 0.1212,
+          "surprise": 0.5996
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5996,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6549,
+        "choice": "anger",
+        "confidence": 0.4885,
+        "probabilities": {
+          "anger": 0.6549,
+          "fear": 0.0229,
+          "joy": 0.0057,
+          "love": 0.0033,
+          "sadness": 0.2611,
+          "surprise": 0.0521
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6549,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6549,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9138,
+        "choice": "anger",
+        "confidence": 0.8083,
+        "probabilities": {
+          "anger": 0.9138,
+          "fear": 0.001,
+          "joy": 0.0025,
+          "love": 0.0042,
+          "sadness": 0.0743,
+          "surprise": 0.0042
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9138,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9138,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4035,
+        "choice": "love",
+        "confidence": 0.2739,
+        "probabilities": {
+          "anger": 0.3046,
+          "fear": 0.0025,
+          "joy": 0.0336,
+          "love": 0.4035,
+          "sadness": 0.2246,
+          "surprise": 0.0312
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4035,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4035,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9689,
+        "choice": "sadness",
+        "confidence": 0.9113,
+        "probabilities": {
+          "anger": 0.0262,
+          "fear": 0.0009,
+          "joy": 0.0015,
+          "love": 0.0011,
+          "sadness": 0.9689,
+          "surprise": 0.0013
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9689,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9689,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "sadness",
+        "confidence": 0.9973,
+        "probabilities": {
+          "anger": 0.0002,
+          "fear": 0.0001,
+          "joy": 0.0001,
+          "love": 0.0001,
+          "sadness": 0.9995,
+          "surprise": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9993,
+        "choice": "joy",
+        "confidence": 0.9961,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.9993,
+          "love": 0.0001,
+          "sadness": 0.0001,
+          "surprise": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9993,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9993,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9626,
+        "choice": "sadness",
+        "confidence": 0.8805,
+        "probabilities": {
+          "anger": 0.0158,
+          "fear": 0.0032,
+          "joy": 0.0051,
+          "love": 0.0052,
+          "sadness": 0.9626,
+          "surprise": 0.0082
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9626,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9626,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9992,
+        "choice": "sadness",
+        "confidence": 0.9956,
+        "probabilities": {
+          "anger": 0.0003,
+          "fear": 0.0001,
+          "joy": 0.0001,
+          "love": 0.0001,
+          "sadness": 0.9992,
+          "surprise": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9992,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9992,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.724,
+        "choice": "sadness",
+        "confidence": 0.5551,
+        "probabilities": {
+          "anger": 0.0008,
+          "fear": 0.0007,
+          "joy": 0.0569,
+          "love": 0.2014,
+          "sadness": 0.724,
+          "surprise": 0.0161
+        },
+        "type": "choice"
+      },
+      "confidence": 0.724,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.724,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5575,
+        "choice": "joy",
+        "confidence": 0.2924,
+        "probabilities": {
+          "anger": 0.0291,
+          "fear": 0.0256,
+          "joy": 0.5575,
+          "love": 0.1206,
+          "sadness": 0.0564,
+          "surprise": 0.2108
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5575,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5575,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.417,
+        "choice": "joy",
+        "confidence": 0.2601,
+        "probabilities": {
+          "anger": 0.063,
+          "fear": 0.0035,
+          "joy": 0.417,
+          "love": 0.019,
+          "sadness": 0.2609,
+          "surprise": 0.2367
+        },
+        "type": "choice"
+      },
+      "confidence": 0.417,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.417,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "joy",
+        "confidence": 0.9969,
+        "probabilities": {
+          "anger": 0.0,
+          "fear": 0.0,
+          "joy": 0.9994,
+          "love": 0.0002,
+          "sadness": 0.0001,
+          "surprise": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": false,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5985,
+        "choice": "love",
+        "confidence": 0.4279,
+        "probabilities": {
+          "anger": 0.0322,
+          "fear": 0.0153,
+          "joy": 0.3039,
+          "love": 0.5985,
+          "sadness": 0.0344,
+          "surprise": 0.0158
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5985,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5985,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8644,
+        "choice": "sadness",
+        "confidence": 0.6638,
+        "probabilities": {
+          "anger": 0.0194,
+          "fear": 0.0141,
+          "joy": 0.0407,
+          "love": 0.0194,
+          "sadness": 0.8644,
+          "surprise": 0.0419
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8644,
+      "correct": false,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8644,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9104,
+        "choice": "anger",
+        "confidence": 0.7957,
+        "probabilities": {
+          "anger": 0.9104,
+          "fear": 0.0045,
+          "joy": 0.0031,
+          "love": 0.0027,
+          "sadness": 0.0731,
+          "surprise": 0.0061
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9104,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9104,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5238,
+        "choice": "joy",
+        "confidence": 0.3842,
+        "probabilities": {
+          "anger": 0.0098,
+          "fear": 0.0127,
+          "joy": 0.5238,
+          "love": 0.3379,
+          "sadness": 0.0992,
+          "surprise": 0.0166
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5238,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5238,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9706,
+        "choice": "sadness",
+        "confidence": 0.9044,
+        "probabilities": {
+          "anger": 0.0154,
+          "fear": 0.0012,
+          "joy": 0.0037,
+          "love": 0.0044,
+          "sadness": 0.9706,
+          "surprise": 0.0048
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9706,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9706,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9898,
+        "choice": "joy",
+        "confidence": 0.9604,
+        "probabilities": {
+          "anger": 0.0006,
+          "fear": 0.0006,
+          "joy": 0.9898,
+          "love": 0.0032,
+          "sadness": 0.0023,
+          "surprise": 0.0036
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9898,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9898,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9407,
+        "choice": "sadness",
+        "confidence": 0.8599,
+        "probabilities": {
+          "anger": 0.0537,
+          "fear": 0.0026,
+          "joy": 0.0008,
+          "love": 0.0008,
+          "sadness": 0.9407,
+          "surprise": 0.0015
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9407,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9407,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4954,
+        "choice": "surprise",
+        "confidence": 0.4142,
+        "probabilities": {
+          "anger": 0.016,
+          "fear": 0.0129,
+          "joy": 0.4138,
+          "love": 0.036,
+          "sadness": 0.0259,
+          "surprise": 0.4954
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4954,
+      "correct": true,
+      "expected": "surprise",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.4954,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9126,
+        "choice": "sadness",
+        "confidence": 0.7795,
+        "probabilities": {
+          "anger": 0.0369,
+          "fear": 0.0023,
+          "joy": 0.0376,
+          "love": 0.0016,
+          "sadness": 0.9126,
+          "surprise": 0.009
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9126,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9126,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.507,
+        "choice": "joy",
+        "confidence": 0.5302,
+        "probabilities": {
+          "anger": 0.0012,
+          "fear": 0.0012,
+          "joy": 0.507,
+          "love": 0.4582,
+          "sadness": 0.0041,
+          "surprise": 0.0283
+        },
+        "type": "choice"
+      },
+      "confidence": 0.507,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.507,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9939,
+        "choice": "joy",
+        "confidence": 0.9766,
+        "probabilities": {
+          "anger": 0.0002,
+          "fear": 0.0002,
+          "joy": 0.9939,
+          "love": 0.0006,
+          "sadness": 0.0002,
+          "surprise": 0.0048
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9939,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9939,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9917,
+        "choice": "sadness",
+        "confidence": 0.9668,
+        "probabilities": {
+          "anger": 0.0033,
+          "fear": 0.0005,
+          "joy": 0.0016,
+          "love": 0.0004,
+          "sadness": 0.9917,
+          "surprise": 0.0026
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9917,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9917,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9975,
+        "choice": "joy",
+        "confidence": 0.9886,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.9975,
+          "love": 0.0003,
+          "sadness": 0.0004,
+          "surprise": 0.0016
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9975,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9975,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.995,
+        "choice": "joy",
+        "confidence": 0.9807,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0003,
+          "joy": 0.995,
+          "love": 0.0001,
+          "sadness": 0.0043,
+          "surprise": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.995,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9373,
+        "choice": "fear",
+        "confidence": 0.8401,
+        "probabilities": {
+          "anger": 0.0025,
+          "fear": 0.9373,
+          "joy": 0.0008,
+          "love": 0.0008,
+          "sadness": 0.0152,
+          "surprise": 0.0434
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9373,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9373,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8615,
+        "choice": "joy",
+        "confidence": 0.7313,
+        "probabilities": {
+          "anger": 0.0034,
+          "fear": 0.0023,
+          "joy": 0.8615,
+          "love": 0.1197,
+          "sadness": 0.0068,
+          "surprise": 0.0063
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8615,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8615,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8255,
+        "choice": "fear",
+        "confidence": 0.6193,
+        "probabilities": {
+          "anger": 0.0031,
+          "fear": 0.8255,
+          "joy": 0.0546,
+          "love": 0.009,
+          "sadness": 0.0766,
+          "surprise": 0.0312
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8255,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8255,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.995,
+        "choice": "sadness",
+        "confidence": 0.9804,
+        "probabilities": {
+          "anger": 0.0041,
+          "fear": 0.0002,
+          "joy": 0.0002,
+          "love": 0.0002,
+          "sadness": 0.995,
+          "surprise": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.995,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9957,
+        "choice": "fear",
+        "confidence": 0.9823,
+        "probabilities": {
+          "anger": 0.0021,
+          "fear": 0.9957,
+          "joy": 0.0001,
+          "love": 0.0001,
+          "sadness": 0.0019,
+          "surprise": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9957,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9957,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9978,
+        "choice": "love",
+        "confidence": 0.9896,
+        "probabilities": {
+          "anger": 0.0008,
+          "fear": 0.0001,
+          "joy": 0.0001,
+          "love": 0.9978,
+          "sadness": 0.001,
+          "surprise": 0.0002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9978,
+      "correct": true,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9978,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9742,
+        "choice": "joy",
+        "confidence": 0.9166,
+        "probabilities": {
+          "anger": 0.0017,
+          "fear": 0.0015,
+          "joy": 0.9742,
+          "love": 0.0159,
+          "sadness": 0.0048,
+          "surprise": 0.0018
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9742,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9742,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7155,
+        "choice": "surprise",
+        "confidence": 0.521,
+        "probabilities": {
+          "anger": 0.0079,
+          "fear": 0.004,
+          "joy": 0.1594,
+          "love": 0.0045,
+          "sadness": 0.1086,
+          "surprise": 0.7155
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7155,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7155,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7723,
+        "choice": "joy",
+        "confidence": 0.6843,
+        "probabilities": {
+          "anger": 0.0003,
+          "fear": 0.0003,
+          "joy": 0.7723,
+          "love": 0.2223,
+          "sadness": 0.0004,
+          "surprise": 0.0045
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7723,
+      "correct": false,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7723,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8108,
+        "choice": "sadness",
+        "confidence": 0.6781,
+        "probabilities": {
+          "anger": 0.0035,
+          "fear": 0.0025,
+          "joy": 0.1686,
+          "love": 0.0071,
+          "sadness": 0.8108,
+          "surprise": 0.0075
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8108,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8108,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9669,
+        "choice": "anger",
+        "confidence": 0.9002,
+        "probabilities": {
+          "anger": 0.9669,
+          "fear": 0.0015,
+          "joy": 0.0011,
+          "love": 0.0017,
+          "sadness": 0.0219,
+          "surprise": 0.007
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9669,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9669,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4224,
+        "choice": "surprise",
+        "confidence": 0.194,
+        "probabilities": {
+          "anger": 0.0739,
+          "fear": 0.0101,
+          "joy": 0.2412,
+          "love": 0.0718,
+          "sadness": 0.1806,
+          "surprise": 0.4224
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4224,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4224,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9619,
+        "choice": "sadness",
+        "confidence": 0.8978,
+        "probabilities": {
+          "anger": 0.0332,
+          "fear": 0.001,
+          "joy": 0.001,
+          "love": 0.001,
+          "sadness": 0.9619,
+          "surprise": 0.0018
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9619,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9619,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9822,
+        "choice": "sadness",
+        "confidence": 0.9381,
+        "probabilities": {
+          "anger": 0.0086,
+          "fear": 0.0051,
+          "joy": 0.0005,
+          "love": 0.0005,
+          "sadness": 0.9822,
+          "surprise": 0.003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9822,
+      "correct": false,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9822,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9273,
+        "choice": "sadness",
+        "confidence": 0.8042,
+        "probabilities": {
+          "anger": 0.031,
+          "fear": 0.028,
+          "joy": 0.0038,
+          "love": 0.0032,
+          "sadness": 0.9273,
+          "surprise": 0.0066
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9273,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9273,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3624,
+        "choice": "love",
+        "confidence": 0.1644,
+        "probabilities": {
+          "anger": 0.117,
+          "fear": 0.3168,
+          "joy": 0.1248,
+          "love": 0.3624,
+          "sadness": 0.0452,
+          "surprise": 0.0338
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3624,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.3624,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "love",
+        "confidence": 0.9998,
+        "probabilities": {
+          "anger": 0.0,
+          "fear": 0.0,
+          "joy": 0.0,
+          "love": 1.0,
+          "sadness": 0.0,
+          "surprise": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9955,
+        "choice": "sadness",
+        "confidence": 0.9806,
+        "probabilities": {
+          "anger": 0.0006,
+          "fear": 0.0004,
+          "joy": 0.0004,
+          "love": 0.0004,
+          "sadness": 0.9955,
+          "surprise": 0.0027
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9955,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9955,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9946,
+        "choice": "joy",
+        "confidence": 0.9769,
+        "probabilities": {
+          "anger": 0.0012,
+          "fear": 0.0006,
+          "joy": 0.9946,
+          "love": 0.0017,
+          "sadness": 0.0015,
+          "surprise": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9946,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9946,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9841,
+        "choice": "fear",
+        "confidence": 0.9461,
+        "probabilities": {
+          "anger": 0.0005,
+          "fear": 0.9841,
+          "joy": 0.0052,
+          "love": 0.0002,
+          "sadness": 0.0006,
+          "surprise": 0.0095
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9841,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9841,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9706,
+        "choice": "love",
+        "confidence": 0.9076,
+        "probabilities": {
+          "anger": 0.0016,
+          "fear": 0.0012,
+          "joy": 0.0187,
+          "love": 0.9706,
+          "sadness": 0.0049,
+          "surprise": 0.003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9706,
+      "correct": true,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9706,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9963,
+        "choice": "joy",
+        "confidence": 0.9834,
+        "probabilities": {
+          "anger": 0.0004,
+          "fear": 0.0003,
+          "joy": 0.9963,
+          "love": 0.0008,
+          "sadness": 0.0004,
+          "surprise": 0.0018
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9963,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9963,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8825,
+        "choice": "sadness",
+        "confidence": 0.712,
+        "probabilities": {
+          "anger": 0.0115,
+          "fear": 0.0049,
+          "joy": 0.053,
+          "love": 0.0116,
+          "sadness": 0.8825,
+          "surprise": 0.0365
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8825,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8825,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9852,
+        "choice": "sadness",
+        "confidence": 0.9555,
+        "probabilities": {
+          "anger": 0.0002,
+          "fear": 0.0001,
+          "joy": 0.0001,
+          "love": 0.0001,
+          "sadness": 0.9852,
+          "surprise": 0.0144
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9852,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9852,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6277,
+        "choice": "surprise",
+        "confidence": 0.3797,
+        "probabilities": {
+          "anger": 0.064,
+          "fear": 0.0063,
+          "joy": 0.1932,
+          "love": 0.0203,
+          "sadness": 0.0885,
+          "surprise": 0.6277
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6277,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6277,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7121,
+        "choice": "joy",
+        "confidence": 0.4253,
+        "probabilities": {
+          "anger": 0.0685,
+          "fear": 0.0135,
+          "joy": 0.7121,
+          "love": 0.051,
+          "sadness": 0.0888,
+          "surprise": 0.0661
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7121,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7121,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9939,
+        "choice": "joy",
+        "confidence": 0.9742,
+        "probabilities": {
+          "anger": 0.0007,
+          "fear": 0.0007,
+          "joy": 0.9939,
+          "love": 0.0016,
+          "sadness": 0.0009,
+          "surprise": 0.0022
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9939,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9939,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "sadness",
+        "confidence": 0.9997,
+        "probabilities": {
+          "anger": 0.0,
+          "fear": 0.0,
+          "joy": 0.0,
+          "love": 0.0,
+          "sadness": 1.0,
+          "surprise": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7956,
+        "choice": "sadness",
+        "confidence": 0.6755,
+        "probabilities": {
+          "anger": 0.005,
+          "fear": 0.1891,
+          "joy": 0.0024,
+          "love": 0.004,
+          "sadness": 0.7956,
+          "surprise": 0.0039
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7956,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7956,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8189,
+        "choice": "sadness",
+        "confidence": 0.5801,
+        "probabilities": {
+          "anger": 0.0612,
+          "fear": 0.0237,
+          "joy": 0.032,
+          "love": 0.0244,
+          "sadness": 0.8189,
+          "surprise": 0.0398
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8189,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8189,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9983,
+        "choice": "joy",
+        "confidence": 0.9915,
+        "probabilities": {
+          "anger": 0.0003,
+          "fear": 0.0001,
+          "joy": 0.9983,
+          "love": 0.0003,
+          "sadness": 0.0002,
+          "surprise": 0.0008
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9983,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9983,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9185,
+        "choice": "joy",
+        "confidence": 0.7765,
+        "probabilities": {
+          "anger": 0.0139,
+          "fear": 0.0023,
+          "joy": 0.9185,
+          "love": 0.0247,
+          "sadness": 0.0164,
+          "surprise": 0.0241
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9185,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9185,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8067,
+        "choice": "sadness",
+        "confidence": 0.6678,
+        "probabilities": {
+          "anger": 0.0192,
+          "fear": 0.0007,
+          "joy": 0.0061,
+          "love": 0.0019,
+          "sadness": 0.8067,
+          "surprise": 0.1654
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8067,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8067,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7827,
+        "choice": "joy",
+        "confidence": 0.5812,
+        "probabilities": {
+          "anger": 0.0035,
+          "fear": 0.0154,
+          "joy": 0.7827,
+          "love": 0.0039,
+          "sadness": 0.0949,
+          "surprise": 0.0996
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7827,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7827,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5634,
+        "choice": "surprise",
+        "confidence": 0.477,
+        "probabilities": {
+          "anger": 0.0281,
+          "fear": 0.0125,
+          "joy": 0.0112,
+          "love": 0.0086,
+          "sadness": 0.3763,
+          "surprise": 0.5634
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5634,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5634,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8877,
+        "choice": "joy",
+        "confidence": 0.7661,
+        "probabilities": {
+          "anger": 0.0073,
+          "fear": 0.0013,
+          "joy": 0.8877,
+          "love": 0.0025,
+          "sadness": 0.0954,
+          "surprise": 0.0058
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8877,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8877,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9617,
+        "choice": "sadness",
+        "confidence": 0.8761,
+        "probabilities": {
+          "anger": 0.0091,
+          "fear": 0.0103,
+          "joy": 0.0053,
+          "love": 0.0039,
+          "sadness": 0.9617,
+          "surprise": 0.0097
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9617,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9617,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9986,
+        "choice": "sadness",
+        "confidence": 0.993,
+        "probabilities": {
+          "anger": 0.0003,
+          "fear": 0.0002,
+          "joy": 0.0002,
+          "love": 0.0003,
+          "sadness": 0.9986,
+          "surprise": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9986,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9986,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3959,
+        "choice": "joy",
+        "confidence": 0.2013,
+        "probabilities": {
+          "anger": 0.1781,
+          "fear": 0.0102,
+          "joy": 0.3959,
+          "love": 0.2865,
+          "sadness": 0.0532,
+          "surprise": 0.0762
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3959,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.3959,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9966,
+        "choice": "surprise",
+        "confidence": 0.9856,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.0005,
+          "love": 0.0005,
+          "sadness": 0.0022,
+          "surprise": 0.9966
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9966,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9966,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8003,
+        "choice": "joy",
+        "confidence": 0.6554,
+        "probabilities": {
+          "anger": 0.001,
+          "fear": 0.0008,
+          "joy": 0.8003,
+          "love": 0.0076,
+          "sadness": 0.1656,
+          "surprise": 0.0247
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8003,
+      "correct": false,
+      "expected": "surprise",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8003,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9483,
+        "choice": "sadness",
+        "confidence": 0.848,
+        "probabilities": {
+          "anger": 0.0063,
+          "fear": 0.0023,
+          "joy": 0.0046,
+          "love": 0.0164,
+          "sadness": 0.9483,
+          "surprise": 0.0221
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9483,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9483,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5411,
+        "choice": "sadness",
+        "confidence": 0.4506,
+        "probabilities": {
+          "anger": 0.0117,
+          "fear": 0.3523,
+          "joy": 0.0008,
+          "love": 0.0008,
+          "sadness": 0.5411,
+          "surprise": 0.0934
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5411,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5411,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9719,
+        "choice": "sadness",
+        "confidence": 0.9144,
+        "probabilities": {
+          "anger": 0.001,
+          "fear": 0.0006,
+          "joy": 0.0205,
+          "love": 0.0026,
+          "sadness": 0.9719,
+          "surprise": 0.0033
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9719,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9719,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3053,
+        "choice": "joy",
+        "confidence": 0.1439,
+        "probabilities": {
+          "anger": 0.255,
+          "fear": 0.0331,
+          "joy": 0.3053,
+          "love": 0.0209,
+          "sadness": 0.1611,
+          "surprise": 0.2246
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3053,
+      "correct": false,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.3053,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.932,
+        "choice": "joy",
+        "confidence": 0.8219,
+        "probabilities": {
+          "anger": 0.0029,
+          "fear": 0.0027,
+          "joy": 0.932,
+          "love": 0.0431,
+          "sadness": 0.0031,
+          "surprise": 0.0162
+        },
+        "type": "choice"
+      },
+      "confidence": 0.932,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.932,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9998,
+        "choice": "love",
+        "confidence": 0.9987,
+        "probabilities": {
+          "anger": 0.0,
+          "fear": 0.0,
+          "joy": 0.0002,
+          "love": 0.9998,
+          "sadness": 0.0,
+          "surprise": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9998,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9998,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8538,
+        "choice": "joy",
+        "confidence": 0.7387,
+        "probabilities": {
+          "anger": 0.0006,
+          "fear": 0.0006,
+          "joy": 0.8538,
+          "love": 0.1347,
+          "sadness": 0.0062,
+          "surprise": 0.0041
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8538,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8538,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9427,
+        "choice": "sadness",
+        "confidence": 0.8335,
+        "probabilities": {
+          "anger": 0.0071,
+          "fear": 0.0052,
+          "joy": 0.0055,
+          "love": 0.0278,
+          "sadness": 0.9427,
+          "surprise": 0.0118
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9427,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9427,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9851,
+        "choice": "sadness",
+        "confidence": 0.9444,
+        "probabilities": {
+          "anger": 0.0027,
+          "fear": 0.006,
+          "joy": 0.0018,
+          "love": 0.0016,
+          "sadness": 0.9851,
+          "surprise": 0.0027
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9851,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9851,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8889,
+        "choice": "sadness",
+        "confidence": 0.7755,
+        "probabilities": {
+          "anger": 0.0992,
+          "fear": 0.002,
+          "joy": 0.0025,
+          "love": 0.0026,
+          "sadness": 0.8889,
+          "surprise": 0.0049
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8889,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8889,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9949,
+        "choice": "sadness",
+        "confidence": 0.9781,
+        "probabilities": {
+          "anger": 0.0018,
+          "fear": 0.0009,
+          "joy": 0.0004,
+          "love": 0.0004,
+          "sadness": 0.9949,
+          "surprise": 0.0015
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9949,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9949,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7088,
+        "choice": "sadness",
+        "confidence": 0.5188,
+        "probabilities": {
+          "anger": 0.1212,
+          "fear": 0.1546,
+          "joy": 0.0018,
+          "love": 0.0011,
+          "sadness": 0.7088,
+          "surprise": 0.0125
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7088,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7088,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4906,
+        "choice": "sadness",
+        "confidence": 0.3099,
+        "probabilities": {
+          "anger": 0.0264,
+          "fear": 0.0968,
+          "joy": 0.036,
+          "love": 0.0205,
+          "sadness": 0.4906,
+          "surprise": 0.3298
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4906,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4906,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5794,
+        "choice": "sadness",
+        "confidence": 0.3494,
+        "probabilities": {
+          "anger": 0.2582,
+          "fear": 0.0143,
+          "joy": 0.0552,
+          "love": 0.0626,
+          "sadness": 0.5794,
+          "surprise": 0.0303
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5794,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5794,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9409,
+        "choice": "joy",
+        "confidence": 0.8396,
+        "probabilities": {
+          "anger": 0.0015,
+          "fear": 0.0012,
+          "joy": 0.9409,
+          "love": 0.0339,
+          "sadness": 0.0049,
+          "surprise": 0.0177
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9409,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9409,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 1.0,
+        "choice": "fear",
+        "confidence": 1.0,
+        "probabilities": {
+          "anger": 0.0,
+          "fear": 1.0,
+          "joy": 0.0,
+          "love": 0.0,
+          "sadness": 0.0,
+          "surprise": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 1.0,
+      "correct": true,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 1.0,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.992,
+        "choice": "love",
+        "confidence": 0.9694,
+        "probabilities": {
+          "anger": 0.0005,
+          "fear": 0.0021,
+          "joy": 0.0001,
+          "love": 0.992,
+          "sadness": 0.005,
+          "surprise": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.992,
+      "correct": true,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.992,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9993,
+        "choice": "love",
+        "confidence": 0.9964,
+        "probabilities": {
+          "anger": 0.0,
+          "fear": 0.0,
+          "joy": 0.0002,
+          "love": 0.9993,
+          "sadness": 0.0003,
+          "surprise": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9993,
+      "correct": true,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9993,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "surprise",
+        "confidence": 0.9977,
+        "probabilities": {
+          "anger": 0.0,
+          "fear": 0.0002,
+          "joy": 0.0,
+          "love": 0.0,
+          "sadness": 0.0002,
+          "surprise": 0.9996
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": true,
+      "expected": "surprise",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8161,
+        "choice": "sadness",
+        "confidence": 0.7253,
+        "probabilities": {
+          "anger": 0.1817,
+          "fear": 0.0003,
+          "joy": 0.0005,
+          "love": 0.0004,
+          "sadness": 0.8161,
+          "surprise": 0.001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8161,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8161,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8826,
+        "choice": "sadness",
+        "confidence": 0.7235,
+        "probabilities": {
+          "anger": 0.0087,
+          "fear": 0.0697,
+          "joy": 0.0013,
+          "love": 0.0172,
+          "sadness": 0.8826,
+          "surprise": 0.0206
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8826,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8826,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7898,
+        "choice": "surprise",
+        "confidence": 0.5997,
+        "probabilities": {
+          "anger": 0.0104,
+          "fear": 0.0024,
+          "joy": 0.0759,
+          "love": 0.0038,
+          "sadness": 0.1176,
+          "surprise": 0.7898
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7898,
+      "correct": true,
+      "expected": "surprise",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7898,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9996,
+        "choice": "sadness",
+        "confidence": 0.9979,
+        "probabilities": {
+          "anger": 0.0003,
+          "fear": 0.0,
+          "joy": 0.0,
+          "love": 0.0,
+          "sadness": 0.9996,
+          "surprise": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9996,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9996,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9079,
+        "choice": "sadness",
+        "confidence": 0.7548,
+        "probabilities": {
+          "anger": 0.0137,
+          "fear": 0.0029,
+          "joy": 0.0332,
+          "love": 0.0237,
+          "sadness": 0.9079,
+          "surprise": 0.0186
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9079,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9079,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7239,
+        "choice": "sadness",
+        "confidence": 0.5979,
+        "probabilities": {
+          "anger": 0.2395,
+          "fear": 0.0301,
+          "joy": 0.0012,
+          "love": 0.0012,
+          "sadness": 0.7239,
+          "surprise": 0.0041
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7239,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.7239,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9954,
+        "choice": "joy",
+        "confidence": 0.9799,
+        "probabilities": {
+          "anger": 0.0005,
+          "fear": 0.0005,
+          "joy": 0.9954,
+          "love": 0.0011,
+          "sadness": 0.0005,
+          "surprise": 0.0019
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9954,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9954,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9986,
+        "choice": "sadness",
+        "confidence": 0.9928,
+        "probabilities": {
+          "anger": 0.0004,
+          "fear": 0.0002,
+          "joy": 0.0002,
+          "love": 0.0002,
+          "sadness": 0.9986,
+          "surprise": 0.0003
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9986,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9986,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5299,
+        "choice": "surprise",
+        "confidence": 0.3726,
+        "probabilities": {
+          "anger": 0.0169,
+          "fear": 0.0039,
+          "joy": 0.2918,
+          "love": 0.0138,
+          "sadness": 0.1437,
+          "surprise": 0.5299
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5299,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5299,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3083,
+        "choice": "anger",
+        "confidence": 0.1258,
+        "probabilities": {
+          "anger": 0.3083,
+          "fear": 0.0315,
+          "joy": 0.1935,
+          "love": 0.0337,
+          "sadness": 0.2154,
+          "surprise": 0.2177
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3083,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.3083,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9014,
+        "choice": "love",
+        "confidence": 0.8175,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.0979,
+          "love": 0.9014,
+          "sadness": 0.0001,
+          "surprise": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9014,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9014,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9382,
+        "choice": "anger",
+        "confidence": 0.8267,
+        "probabilities": {
+          "anger": 0.9382,
+          "fear": 0.0025,
+          "joy": 0.0318,
+          "love": 0.0035,
+          "sadness": 0.0107,
+          "surprise": 0.0134
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9382,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9382,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9968,
+        "choice": "joy",
+        "confidence": 0.9858,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.9968,
+          "love": 0.0004,
+          "sadness": 0.0008,
+          "surprise": 0.0017
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9968,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9968,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9709,
+        "choice": "joy",
+        "confidence": 0.9099,
+        "probabilities": {
+          "anger": 0.0018,
+          "fear": 0.0006,
+          "joy": 0.9709,
+          "love": 0.0181,
+          "sadness": 0.0012,
+          "surprise": 0.0075
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9709,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9709,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6459,
+        "choice": "anger",
+        "confidence": 0.5984,
+        "probabilities": {
+          "anger": 0.6459,
+          "fear": 0.0007,
+          "joy": 0.002,
+          "love": 0.0017,
+          "sadness": 0.3409,
+          "surprise": 0.0088
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6459,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6459,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9982,
+        "choice": "sadness",
+        "confidence": 0.9914,
+        "probabilities": {
+          "anger": 0.0003,
+          "fear": 0.0001,
+          "joy": 0.0002,
+          "love": 0.0005,
+          "sadness": 0.9982,
+          "surprise": 0.0007
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9982,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9982,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9994,
+        "choice": "love",
+        "confidence": 0.9965,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.0003,
+          "love": 0.9994,
+          "sadness": 0.0002,
+          "surprise": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9994,
+      "correct": true,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9994,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9543,
+        "choice": "sadness",
+        "confidence": 0.8682,
+        "probabilities": {
+          "anger": 0.0287,
+          "fear": 0.0087,
+          "joy": 0.002,
+          "love": 0.0022,
+          "sadness": 0.9543,
+          "surprise": 0.0041
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9543,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9543,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7931,
+        "choice": "anger",
+        "confidence": 0.5915,
+        "probabilities": {
+          "anger": 0.7931,
+          "fear": 0.0333,
+          "joy": 0.0057,
+          "love": 0.0042,
+          "sadness": 0.1278,
+          "surprise": 0.0359
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7931,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7931,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5407,
+        "choice": "sadness",
+        "confidence": 0.5142,
+        "probabilities": {
+          "anger": 0.4186,
+          "fear": 0.0034,
+          "joy": 0.0234,
+          "love": 0.0027,
+          "sadness": 0.5407,
+          "surprise": 0.0113
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5407,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5407,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "sadness",
+        "confidence": 0.9981,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.0001,
+          "love": 0.0001,
+          "sadness": 0.9997,
+          "surprise": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9489,
+        "choice": "sadness",
+        "confidence": 0.8755,
+        "probabilities": {
+          "anger": 0.0466,
+          "fear": 0.0011,
+          "joy": 0.0009,
+          "love": 0.0009,
+          "sadness": 0.9489,
+          "surprise": 0.0016
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9489,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9489,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4007,
+        "choice": "sadness",
+        "confidence": 0.279,
+        "probabilities": {
+          "anger": 0.0964,
+          "fear": 0.0102,
+          "joy": 0.061,
+          "love": 0.0344,
+          "sadness": 0.4007,
+          "surprise": 0.3974
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4007,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4007,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8676,
+        "choice": "surprise",
+        "confidence": 0.7668,
+        "probabilities": {
+          "anger": 0.0052,
+          "fear": 0.0002,
+          "joy": 0.0002,
+          "love": 0.0003,
+          "sadness": 0.1265,
+          "surprise": 0.8676
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8676,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.8676,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9947,
+        "choice": "joy",
+        "confidence": 0.9774,
+        "probabilities": {
+          "anger": 0.0004,
+          "fear": 0.0003,
+          "joy": 0.9947,
+          "love": 0.002,
+          "sadness": 0.0013,
+          "surprise": 0.0013
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9947,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9947,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9753,
+        "choice": "sadness",
+        "confidence": 0.9176,
+        "probabilities": {
+          "anger": 0.0068,
+          "fear": 0.0011,
+          "joy": 0.0042,
+          "love": 0.001,
+          "sadness": 0.9753,
+          "surprise": 0.0116
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9753,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9753,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.4482,
+        "choice": "love",
+        "confidence": 0.2433,
+        "probabilities": {
+          "anger": 0.2552,
+          "fear": 0.0157,
+          "joy": 0.041,
+          "love": 0.4482,
+          "sadness": 0.1995,
+          "surprise": 0.0405
+        },
+        "type": "choice"
+      },
+      "confidence": 0.4482,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.4482,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6063,
+        "choice": "anger",
+        "confidence": 0.4426,
+        "probabilities": {
+          "anger": 0.6063,
+          "fear": 0.0036,
+          "joy": 0.0324,
+          "love": 0.0072,
+          "sadness": 0.2902,
+          "surprise": 0.0601
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6063,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6063,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3546,
+        "choice": "joy",
+        "confidence": 0.2396,
+        "probabilities": {
+          "anger": 0.0299,
+          "fear": 0.0131,
+          "joy": 0.3546,
+          "love": 0.0388,
+          "sadness": 0.2383,
+          "surprise": 0.3253
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3546,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.3546,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9366,
+        "choice": "joy",
+        "confidence": 0.8352,
+        "probabilities": {
+          "anger": 0.0008,
+          "fear": 0.0006,
+          "joy": 0.9366,
+          "love": 0.0417,
+          "sadness": 0.006,
+          "surprise": 0.0144
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9366,
+      "correct": false,
+      "expected": "surprise",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9366,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9414,
+        "choice": "anger",
+        "confidence": 0.8567,
+        "probabilities": {
+          "anger": 0.9414,
+          "fear": 0.0017,
+          "joy": 0.0009,
+          "love": 0.0007,
+          "sadness": 0.0499,
+          "surprise": 0.0053
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9414,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9414,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.654,
+        "choice": "joy",
+        "confidence": 0.3987,
+        "probabilities": {
+          "anger": 0.0555,
+          "fear": 0.0084,
+          "joy": 0.654,
+          "love": 0.1826,
+          "sadness": 0.0717,
+          "surprise": 0.0278
+        },
+        "type": "choice"
+      },
+      "confidence": 0.654,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.654,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.99,
+        "choice": "sadness",
+        "confidence": 0.9626,
+        "probabilities": {
+          "anger": 0.0065,
+          "fear": 0.0006,
+          "joy": 0.0006,
+          "love": 0.0004,
+          "sadness": 0.99,
+          "surprise": 0.002
+        },
+        "type": "choice"
+      },
+      "confidence": 0.99,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.99,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5916,
+        "choice": "sadness",
+        "confidence": 0.5388,
+        "probabilities": {
+          "anger": 0.3776,
+          "fear": 0.0058,
+          "joy": 0.0064,
+          "love": 0.0056,
+          "sadness": 0.5916,
+          "surprise": 0.013
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5916,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.5916,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9165,
+        "choice": "love",
+        "confidence": 0.7979,
+        "probabilities": {
+          "anger": 0.0024,
+          "fear": 0.0019,
+          "joy": 0.061,
+          "love": 0.9165,
+          "sadness": 0.0073,
+          "surprise": 0.011
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9165,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9165,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.2927,
+        "choice": "joy",
+        "confidence": 0.1249,
+        "probabilities": {
+          "anger": 0.1243,
+          "fear": 0.0877,
+          "joy": 0.2927,
+          "love": 0.0127,
+          "sadness": 0.2788,
+          "surprise": 0.2039
+        },
+        "type": "choice"
+      },
+      "confidence": 0.2927,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.2927,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9997,
+        "choice": "love",
+        "confidence": 0.9982,
+        "probabilities": {
+          "anger": 0.0,
+          "fear": 0.0,
+          "joy": 0.0,
+          "love": 0.9997,
+          "sadness": 0.0002,
+          "surprise": 0.0
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9997,
+      "correct": true,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9997,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6074,
+        "choice": "joy",
+        "confidence": 0.459,
+        "probabilities": {
+          "anger": 0.0012,
+          "fear": 0.0011,
+          "joy": 0.6074,
+          "love": 0.1544,
+          "sadness": 0.0043,
+          "surprise": 0.2316
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6074,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.6074,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.8693,
+        "choice": "joy",
+        "confidence": 0.7375,
+        "probabilities": {
+          "anger": 0.003,
+          "fear": 0.0021,
+          "joy": 0.8693,
+          "love": 0.0151,
+          "sadness": 0.0024,
+          "surprise": 0.108
+        },
+        "type": "choice"
+      },
+      "confidence": 0.8693,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.8693,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5944,
+        "choice": "sadness",
+        "confidence": 0.4277,
+        "probabilities": {
+          "anger": 0.0075,
+          "fear": 0.004,
+          "joy": 0.1487,
+          "love": 0.0062,
+          "sadness": 0.5944,
+          "surprise": 0.2391
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5944,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5944,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9864,
+        "choice": "sadness",
+        "confidence": 0.9494,
+        "probabilities": {
+          "anger": 0.0038,
+          "fear": 0.0008,
+          "joy": 0.0017,
+          "love": 0.0058,
+          "sadness": 0.9864,
+          "surprise": 0.0014
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9864,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9864,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9733,
+        "choice": "joy",
+        "confidence": 0.9228,
+        "probabilities": {
+          "anger": 0.0004,
+          "fear": 0.0004,
+          "joy": 0.9733,
+          "love": 0.023,
+          "sadness": 0.0018,
+          "surprise": 0.0012
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9733,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9733,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9834,
+        "choice": "anger",
+        "confidence": 0.9433,
+        "probabilities": {
+          "anger": 0.9834,
+          "fear": 0.0012,
+          "joy": 0.0012,
+          "love": 0.0013,
+          "sadness": 0.0116,
+          "surprise": 0.0012
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9834,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9834,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9611,
+        "choice": "sadness",
+        "confidence": 0.8928,
+        "probabilities": {
+          "anger": 0.0321,
+          "fear": 0.0017,
+          "joy": 0.0015,
+          "love": 0.0015,
+          "sadness": 0.9611,
+          "surprise": 0.0021
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9611,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9611,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.7904,
+        "choice": "sadness",
+        "confidence": 0.5698,
+        "probabilities": {
+          "anger": 0.1206,
+          "fear": 0.009,
+          "joy": 0.024,
+          "love": 0.0196,
+          "sadness": 0.7904,
+          "surprise": 0.0364
+        },
+        "type": "choice"
+      },
+      "confidence": 0.7904,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.7904,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.6831,
+        "choice": "sadness",
+        "confidence": 0.4439,
+        "probabilities": {
+          "anger": 0.0555,
+          "fear": 0.0457,
+          "joy": 0.021,
+          "love": 0.0085,
+          "sadness": 0.6831,
+          "surprise": 0.1863
+        },
+        "type": "choice"
+      },
+      "confidence": 0.6831,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.6831,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9566,
+        "choice": "joy",
+        "confidence": 0.8919,
+        "probabilities": {
+          "anger": 0.0002,
+          "fear": 0.0002,
+          "joy": 0.9566,
+          "love": 0.04,
+          "sadness": 0.0005,
+          "surprise": 0.0025
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9566,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9566,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.3125,
+        "choice": "surprise",
+        "confidence": 0.0877,
+        "probabilities": {
+          "anger": 0.0469,
+          "fear": 0.189,
+          "joy": 0.0925,
+          "love": 0.1144,
+          "sadness": 0.2447,
+          "surprise": 0.3125
+        },
+        "type": "choice"
+      },
+      "confidence": 0.3125,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.3125,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9201,
+        "choice": "sadness",
+        "confidence": 0.7991,
+        "probabilities": {
+          "anger": 0.0511,
+          "fear": 0.001,
+          "joy": 0.0021,
+          "love": 0.015,
+          "sadness": 0.9201,
+          "surprise": 0.0108
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9201,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9201,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.922,
+        "choice": "anger",
+        "confidence": 0.793,
+        "probabilities": {
+          "anger": 0.922,
+          "fear": 0.0029,
+          "joy": 0.0355,
+          "love": 0.0263,
+          "sadness": 0.0102,
+          "surprise": 0.0031
+        },
+        "type": "choice"
+      },
+      "confidence": 0.922,
+      "correct": false,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.922,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9651,
+        "choice": "anger",
+        "confidence": 0.8963,
+        "probabilities": {
+          "anger": 0.9651,
+          "fear": 0.0006,
+          "joy": 0.005,
+          "love": 0.001,
+          "sadness": 0.0237,
+          "surprise": 0.0047
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9651,
+      "correct": true,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9651,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9582,
+        "choice": "sadness",
+        "confidence": 0.8934,
+        "probabilities": {
+          "anger": 0.0381,
+          "fear": 0.0008,
+          "joy": 0.0007,
+          "love": 0.0006,
+          "sadness": 0.9582,
+          "surprise": 0.0016
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9582,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9582,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "joy",
+        "confidence": 0.9971,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.9995,
+          "love": 0.0001,
+          "sadness": 0.0001,
+          "surprise": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": true,
+      "expected": "joy",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.986,
+        "choice": "sadness",
+        "confidence": 0.9499,
+        "probabilities": {
+          "anger": 0.0088,
+          "fear": 0.002,
+          "joy": 0.0009,
+          "love": 0.0009,
+          "sadness": 0.986,
+          "surprise": 0.0014
+        },
+        "type": "choice"
+      },
+      "confidence": 0.986,
+      "correct": false,
+      "expected": "anger",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.986,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.993,
+        "choice": "sadness",
+        "confidence": 0.9726,
+        "probabilities": {
+          "anger": 0.0047,
+          "fear": 0.0005,
+          "joy": 0.0006,
+          "love": 0.0004,
+          "sadness": 0.993,
+          "surprise": 0.0007
+        },
+        "type": "choice"
+      },
+      "confidence": 0.993,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.993,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9973,
+        "choice": "sadness",
+        "confidence": 0.9874,
+        "probabilities": {
+          "anger": 0.0008,
+          "fear": 0.0006,
+          "joy": 0.0004,
+          "love": 0.0004,
+          "sadness": 0.9973,
+          "surprise": 0.0004
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9973,
+      "correct": false,
+      "expected": "fear",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.9973,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.5054,
+        "choice": "love",
+        "confidence": 0.3362,
+        "probabilities": {
+          "anger": 0.0154,
+          "fear": 0.0134,
+          "joy": 0.2769,
+          "love": 0.5054,
+          "sadness": 0.0148,
+          "surprise": 0.1741
+        },
+        "type": "choice"
+      },
+      "confidence": 0.5054,
+      "correct": false,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 0.0,
+        "mean_confidence": 0.5054,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9995,
+        "choice": "love",
+        "confidence": 0.997,
+        "probabilities": {
+          "anger": 0.0001,
+          "fear": 0.0001,
+          "joy": 0.0003,
+          "love": 0.9995,
+          "sadness": 0.0001,
+          "surprise": 0.0001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9995,
+      "correct": true,
+      "expected": "love",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9995,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.591,
+        "choice": "sadness",
+        "confidence": 0.4539,
+        "probabilities": {
+          "anger": 0.008,
+          "fear": 0.2964,
+          "joy": 0.0048,
+          "love": 0.0028,
+          "sadness": 0.591,
+          "surprise": 0.0969
+        },
+        "type": "choice"
+      },
+      "confidence": 0.591,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.591,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    },
+    {
+      "answer": {
+        "action": {
+          "act_probability": 1.0
+        },
+        "answer_confidence": 0.9953,
+        "choice": "sadness",
+        "confidence": 0.9791,
+        "probabilities": {
+          "anger": 0.001,
+          "fear": 0.0011,
+          "joy": 0.0008,
+          "love": 0.0008,
+          "sadness": 0.9953,
+          "surprise": 0.001
+        },
+        "type": "choice"
+      },
+      "confidence": 0.9953,
+      "correct": true,
+      "expected": "sadness",
+      "language": "en",
+      "model": "multilingual",
+      "qid": "emotion",
+      "scores": {
+        "choice_accuracy": 1.0,
+        "mean_confidence": 0.9953,
+        "noul_accuracy": null,
+        "score_mae": null
+      },
+      "tags": [
+        "benchmark",
+        "emotion"
+      ]
+    }
+  ],
+  "config": {
+    "dataset": "/out/standard_benchmarks/emotion.jsonl",
+    "device": "cpu",
+    "model": "multilingual",
+    "revisions": {
+      "multilingual": "55cf4c4ebb4ebe31b2550e8bdf3bd21b99753851"
+    },
+    "timing": {
+      "batch_form": "states",
+      "batch_size": 8,
+      "chunks": 25,
+      "cost_metric": "per decision: that call divided by its own chunk size",
+      "latency_metric": "per request: the wall time of the call that returned it, unsplit",
+      "max_chunk": 8,
+      "rows_alone": 0,
+      "rows_grouped": 200
+    }
+  },
+  "overall": {
+    "choice_accuracy": 0.56,
+    "cost_per_decision_p50_ms": 279.2760804999972,
+    "cost_per_decision_p95_ms": 384.18641074999726,
+    "ece": 0.2671394999999999,
+    "latency_p50_ms": 2234.2086439999775,
+    "latency_p95_ms": 3073.491285999978,
+    "mean_confidence": 0.8267005000000001
+  },
+  "slices": {
+    "language": {
+      "en": {
+        "choice_accuracy": 0.56,
+        "ece": 0.2671394999999999,
+        "mean_confidence": 0.8267005000000001
+      }
+    },
+    "model": {
+      "multilingual": {
+        "choice_accuracy": 0.56,
+        "ece": 0.2671394999999999,
+        "mean_confidence": 0.8267005000000001
+      }
+    },
+    "qid": {
+      "emotion": {
+        "choice_accuracy": 0.56,
+        "ece": 0.2671394999999999,
+        "mean_confidence": 0.8267005000000001
+      }
+    },
+    "tag": {
+      "benchmark": {
+        "choice_accuracy": 0.56,
+        "ece": 0.2671394999999999,
+        "mean_confidence": 0.8267005000000001
+      },
+      "emotion": {
+        "choice_accuracy": 0.56,
+        "ece": 0.2671394999999999,
+        "mean_confidence": 0.8267005000000001
+      }
+    }
+  }
+}

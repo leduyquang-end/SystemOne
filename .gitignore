@@ -37,6 +37,9 @@ session-*.md
 *-session.md
 .claude-session*
 
+# evaluation scratch: HuggingFace download cache (rebuild with build_benchmark_datasets.py)
+eval_results/.hf_cache/
+
 # laya-ts: exported weights (regenerate via laya-ts/scripts/export_onnx.py)
 model-*/
 *.onnx

@@ -1,0 +1,45 @@
+{
+  "seed": 13,
+  "count_per_dataset": 200,
+  "datasets": {
+    "ag_news": {
+      "source": "fancyzhx/ag_news/data/test-00000-of-00001.parquet",
+      "rows": 200,
+      "qid": "topic",
+      "labels": {
+        "business": 50,
+        "sci_tech": 50,
+        "sports": 50,
+        "world": 50
+      },
+      "majority_baseline": 0.25,
+      "source_rows": 7600
+    },
+    "emotion": {
+      "source": "dair-ai/emotion/split/test-00000-of-00001.parquet",
+      "rows": 200,
+      "qid": "emotion",
+      "labels": {
+        "anger": 27,
+        "fear": 22,
+        "joy": 70,
+        "love": 16,
+        "sadness": 58,
+        "surprise": 7
+      },
+      "majority_baseline": 0.35,
+      "source_rows": 2000
+    },
+    "enron_spam": {
+      "source": "SetFit/enron_spam/test.jsonl",
+      "rows": 200,
+      "qid": "spam",
+      "labels": {
+        "ham": 99,
+        "spam": 101
+      },
+      "majority_baseline": 0.505,
+      "source_rows": 2000
+    }
+  }
+}
